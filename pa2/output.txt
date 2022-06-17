@@ -1,0 +1,3857 @@
+
+1
+Wolf (1994)                      3.000000
+Total Recall (1990)              2.844156
+Contact (1997)                   2.710865
+Miracle on 34th Street (1994)    2.685431
+Armageddon (1998)                2.678129
+2
+Cyrano de Bergerac (1990)             4.000000
+Young Guns (1988)                     4.000000
+Wedding Crashers (2005)               3.921262
+Dracula: Dead and Loving It (1995)    3.889087
+Phone Booth (2002)                    3.875982
+3
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+4
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+5
+X-Files: Fight the Future, The (1998)    3.000000
+Junior (1994)                            2.912779
+Pecker (1998)                            2.910665
+Serpico (1973)                           2.908036
+Lethal Weapon 3 (1992)                   2.900963
+6
+Young Frankenstein (1974)      3.0
+Death and the Maiden (1994)    3.0
+Quills (2000)                  3.0
+Blown Away (1994)              3.0
+Hilary and Jackie (1998)       3.0
+7
+Witness (1985)                  4.000000
+We Were Soldiers (2002)         3.913119
+Road Trip (2000)                3.782443
+Friday (1995)                   3.742341
+Shadow of the Vampire (2000)    3.726207
+8
+Tender Mercies (1983)                                               4.000000
+Yellow Submarine (1968)                                             4.000000
+Cheech and Chong's Up in Smoke (1978)                               3.913119
+Charlie's Angels (2000)                                             3.813850
+Monty Python's And Now for Something Completely Different (1971)    3.810317
+9
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+10
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+11
+Small Time Crooks (2000)                    5.000000
+X-Men (2000)                                5.000000
+Cloudy with a Chance of Meatballs (2009)    4.944718
+12 Years a Slave (2013)                     4.878327
+King and I, The (1956)                      4.838507
+12
+Wizard of Oz, The (1939)     3.500000
+Indochine (1992)             3.500000
+Lord of the Flies (1990)     3.500000
+Picture Perfect (1997)       3.500000
+Jackass: The Movie (2002)    3.400895
+13
+Toy Story 2 (1999)           4.000000
+Muppets From Space (1999)    3.989485
+Divergent (2014)             3.954350
+Contagion (2011)             3.946400
+Murder by Numbers (2002)     3.913119
+14
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+15
+U.S. Marshals (1998)                  4.000000
+Bottle Rocket (1996)                  4.000000
+What's Eating Gilbert Grape (1993)    4.000000
+Devil's Own, The (1997)               3.857143
+Thunderball (1965)                    3.815836
+16
+eXistenZ (1999)                          5.000000
+Dead Zone, The (1983)                    4.841229
+Waking the Dead (2000)                   4.815434
+Open Your Eyes (Abre los ojos) (1997)    4.762897
+Manhattan Murder Mystery (1993)          4.654822
+17
+Lion King, The (1994)     4.000000
+White Squall (1996)       4.000000
+Scream (1996)             3.810644
+City Hall (1996)          3.577709
+Double Jeopardy (1999)    3.564168
+18
+Cyrano de Bergerac (1990)             2.000000
+Young Guns (1988)                     2.000000
+Wedding Crashers (2005)               1.960631
+Dracula: Dead and Loving It (1995)    1.944544
+Phone Booth (2002)                    1.937991
+19
+Cyrano de Bergerac (1990)             3.000000
+Young Guns (1988)                     3.000000
+Wedding Crashers (2005)               2.940947
+Dracula: Dead and Loving It (1995)    2.916815
+Phone Booth (2002)                    2.906986
+20
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+21
+Sicario (2015)                  4.500000
+X2: X-Men United (2003)         4.500000
+Wreck-It Ralph (2012)           4.377981
+40 Days and 40 Nights (2002)    4.243175
+Zero Dark Thirty (2012)         4.238561
+22
+eXistenZ (1999)                          4.000000
+Dead Zone, The (1983)                    3.872983
+Waking the Dead (2000)                   3.852347
+Open Your Eyes (Abre los ojos) (1997)    3.810317
+Manhattan Murder Mystery (1993)          3.723858
+23
+Twister (1996)                3.000000
+Citizen Ruth (1996)           2.934839
+When We Were Kings (1996)     2.927700
+Joy Luck Club, The (1993)     2.926665
+Out-of-Towners, The (1999)    2.919371
+24
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+25
+Sicario (2015)                  0.500000
+X2: X-Men United (2003)         0.500000
+Wreck-It Ralph (2012)           0.486442
+40 Days and 40 Nights (2002)    0.471464
+Zero Dark Thirty (2012)         0.470951
+26
+Omega Man, The (1971)         4.0
+Usual Suspects, The (1995)    4.0
+Last Detail, The (1973)       4.0
+Shall We Dance (1937)         4.0
+General, The (1998)           4.0
+27
+Witness (1985)                  4.000000
+We Were Soldiers (2002)         3.913119
+Road Trip (2000)                3.782443
+Friday (1995)                   3.742341
+Shadow of the Vampire (2000)    3.726207
+28
+Midnight Express (1978)        5.000000
+Trainspotting (1996)           5.000000
+King and I, The (1956)         5.000000
+Mickey Blue Eyes (1999)        4.821429
+Night to Remember, A (1958)    4.795215
+29
+Cyrano de Bergerac (1990)             4.000000
+Young Guns (1988)                     4.000000
+Wedding Crashers (2005)               3.921262
+Dracula: Dead and Loving It (1995)    3.889087
+Phone Booth (2002)                    3.875982
+30
+Cyrano de Bergerac (1990)             4.000000
+Young Guns (1988)                     4.000000
+Wedding Crashers (2005)               3.921262
+Dracula: Dead and Loving It (1995)    3.889087
+Phone Booth (2002)                    3.875982
+31
+U.S. Marshals (1998)                  4.000000
+Bottle Rocket (1996)                  4.000000
+What's Eating Gilbert Grape (1993)    4.000000
+Devil's Own, The (1997)               3.857143
+Thunderball (1965)                    3.815836
+32
+Series([], )
+33
+Wizard of Oz, The (1939)     3.000000
+Indochine (1992)             3.000000
+Lord of the Flies (1990)     3.000000
+Picture Perfect (1997)       3.000000
+Jackass: The Movie (2002)    2.915053
+34
+Tron (1982)                                                                                    3.500000
+Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988)    3.500000
+Dead Ringers (1988)                                                                            3.500000
+Persuasion (1995)                                                                              3.500000
+Junior (1994)                                                                                  3.394514
+35
+Wolf (1994)                      3.000000
+Total Recall (1990)              2.844156
+Contact (1997)                   2.710865
+Miracle on 34th Street (1994)    2.685431
+Armageddon (1998)                2.678129
+36
+Black Cauldron, The (1985)        5.000000
+When Harry Met Sally... (1989)    5.000000
+Night at the Roxbury, A (1998)    4.975526
+Gone Girl (2014)                  4.795215
+Sweet Smell of Success (1957)     4.758310
+37
+Wolf of Wall Street, The (2013)                4.000000
+Starsky & Hutch (2004)                         3.970345
+Wallace & Gromit: The Wrong Trousers (1993)    3.867950
+Risky Business (1983)                          3.857943
+Caddyshack (1980)                              3.857943
+38
+Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)    3.000000
+Nightmare Before Christmas, The (1993)                                                    2.774153
+Clueless (1995)                                                                           2.762211
+Prophecy, The (1995)                                                                      2.651650
+Reservoir Dogs (1992)                                                                     2.618615
+39
+Zootopia (2016)                                          4.000000
+Prestige, The (2006)                                     3.826181
+Lord of the Rings: The Return of the King, The (2003)    3.696764
+Jurassic Park (1993)                                     3.666087
+Independence Day (a.k.a. ID4) (1996)                     3.665254
+40
+eXistenZ (1999)                          3.500000
+Dead Zone, The (1983)                    3.388860
+Waking the Dead (2000)                   3.370804
+Open Your Eyes (Abre los ojos) (1997)    3.334028
+Manhattan Murder Mystery (1993)          3.258376
+41
+X-Men: First Class (2011)    4.000000
+Blow (2001)                  3.947733
+Aviator, The (2004)          3.942110
+Dead Poets Society (1989)    3.935616
+Hugo (2011)                  3.930788
+42
+William Shakespeare's A Midsummer Night's Dream (1999)    2.000000
+Red Violin, The (Violon rouge, Le) (1998)                 1.932260
+Planet of the Apes (1968)                                 1.865010
+Predator (1987)                                           1.860521
+Never Been Kissed (1999)                                  1.851640
+43
+Twister (1996)                4.000000
+Citizen Ruth (1996)           3.913119
+When We Were Kings (1996)     3.903600
+Joy Luck Club, The (1993)     3.902220
+Out-of-Towners, The (1999)    3.892495
+44
+Vertigo (1958)                                          5.000000
+Trip to the Moon, A (Voyage dans la lune, Le) (1902)    4.884399
+On Her Majesty's Secret Service (1969)                  4.875084
+All That Jazz (1979)                                    4.861359
+Brokeback Mountain (2005)                               4.841229
+45
+Volcano (1997)                         5.000000
+Medicine Man (1992)                    5.000000
+Hunchback of Notre Dame, The (1996)    4.816716
+Home Alone 3 (1997)                    4.800716
+Jingle All the Way (1996)              4.788402
+46
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+47
+Series([], )
+48
+Pinocchio (1940)                3.000000
+Young Sherlock Holmes (1985)    3.000000
+Superman II (1980)              2.887600
+Lethal Weapon 3 (1992)          2.790782
+Labyrinth (1986)                2.755676
+49
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+50
+Wild Wild West (1999)      2.000000
+Bachelor, The (1999)       1.978141
+RoboCop 2 (1990)           1.962312
+To Catch a Thief (1955)    1.951331
+Interpreter, The (2005)    1.936492
+51
+Small Time Crooks (2000)                    3.500000
+X-Men (2000)                                3.500000
+Cloudy with a Chance of Meatballs (2009)    3.461302
+12 Years a Slave (2013)                     3.414829
+King and I, The (1956)                      3.386955
+52
+Who Framed Roger Rabbit? (1988)                              1.000000
+Music Man, The (1962)                                        0.980196
+Guilty as Sin (1993)                                         0.968822
+Invasion of the Body Snatchers (1978)                        0.968822
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    0.960231
+53
+WALL·E (2008)                                               5.000000
+Black Mirror (2011)                                         4.909953
+Hellraiser (1987)                                           4.827176
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)    4.717282
+American Werewolf in London, An (1981)                      4.708710
+54
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+55
+Zootopia (2016)                                          4.000000
+Prestige, The (2006)                                     3.826181
+Lord of the Rings: The Return of the King, The (2003)    3.696764
+Jurassic Park (1993)                                     3.666087
+Independence Day (a.k.a. ID4) (1996)                     3.665254
+56
+Cyrano de Bergerac (1990)             4.000000
+Young Guns (1988)                     4.000000
+Wedding Crashers (2005)               3.921262
+Dracula: Dead and Loving It (1995)    3.889087
+Phone Booth (2002)                    3.875982
+57
+U-571 (2000)                 5.000000
+Hancock (2008)               4.973890
+Déjà Vu (Deja Vu) (2006)     4.944718
+Courage Under Fire (1996)    4.903513
+True Grit (2010)             4.875084
+58
+Wizard of Oz, The (1939)     1.500000
+Indochine (1992)             1.500000
+Lord of the Flies (1990)     1.500000
+Picture Perfect (1997)       1.500000
+Jackass: The Movie (2002)    1.457526
+59
+Wallace & Gromit: The Best of Aardman Animation (1996)    4.000000
+Creature Comforts (1989)                                  4.000000
+Patton (1970)                                             3.952847
+Rosencrantz and Guildenstern Are Dead (1990)              3.931489
+Roxanne (1987)                                            3.921262
+60
+Tender Mercies (1983)                                               4.000000
+Yellow Submarine (1968)                                             4.000000
+Cheech and Chong's Up in Smoke (1978)                               3.913119
+Charlie's Angels (2000)                                             3.813850
+Monty Python's And Now for Something Completely Different (1971)    3.810317
+61
+Wolf of Wall Street, The (2013)                4.500000
+Starsky & Hutch (2004)                         4.466638
+Wallace & Gromit: The Wrong Trousers (1993)    4.351444
+Risky Business (1983)                          4.340185
+Caddyshack (1980)                              4.340185
+62
+Sicario (2015)                  5.000000
+X2: X-Men United (2003)         5.000000
+Wreck-It Ralph (2012)           4.864424
+40 Days and 40 Nights (2002)    4.714639
+Zero Dark Thirty (2012)         4.709513
+63
+True Lies (1994)         4.000000
+Clean Slate (1994)       4.000000
+Coma (1978)              3.956283
+Young Einstein (1988)    3.919832
+Animal, The (2001)       3.919184
+64
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+65
+Untouchables, The (1987)     5.000000
+Doctor Dolittle (1967)       4.879500
+Cyrano de Bergerac (1990)    4.816716
+Jingle All the Way (1996)    4.816716
+Celebrity (1998)             4.793191
+66
+Wyatt Earp (1994)         4.000000
+Heat (1995)               4.000000
+Platoon (1986)            3.777618
+Demolition Man (1993)     3.763863
+American Beauty (1999)    3.585686
+67
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+68
+Wizard of Oz, The (1939)     4.500000
+Indochine (1992)             4.500000
+Lord of the Flies (1990)     4.500000
+Picture Perfect (1997)       4.500000
+Jackass: The Movie (2002)    4.372579
+69
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+70
+Unsinkable Molly Brown, The (1964)        3.000000
+Men in Black (a.k.a. MIB) (1997)          2.129464
+Bob Roberts (1992)                        1.660528
+Breakfast Club, The (1985)                1.131886
+One Flew Over the Cuckoo's Nest (1975)    0.482143
+71
+Zodiac (2007)             3.000000
+American Sniper (2014)    2.958351
+Wonder Boys (2000)        2.904738
+Peter Pan (1953)          2.855201
+Robin Hood (1973)         2.855201
+72
+xXx (2002)                        1.500000
+Avengers: Age of Ultron (2015)    1.494036
+Bringing Down the House (2003)    1.474755
+Little Shop of Horrors (1986)     1.459686
+Jumper (2008)                     1.452692
+73
+Wing Commander (1999)                               3.000000
+Independence Day (a.k.a. ID4) (1996)                2.693216
+Star Wars: Episode I - The Phantom Menace (1999)    2.638122
+Braveheart (1995)                                   2.250000
+Jurassic Park (1993)                                2.236068
+74
+eXistenZ (1999)                          3.000000
+Dead Zone, The (1983)                    2.904738
+Waking the Dead (2000)                   2.889260
+Open Your Eyes (Abre los ojos) (1997)    2.857738
+Manhattan Murder Mystery (1993)          2.792893
+75
+Waiting for Guffman (1996)                      4.000000
+Nine Months (1995)                              3.891185
+Miller's Crossing (1990)                        3.696966
+Golden Child, The (1986)                        3.674235
+Anchorman: The Legend of Ron Burgundy (2004)    3.668242
+76
+eXistenZ (1999)                          4.000000
+Dead Zone, The (1983)                    3.872983
+Waking the Dead (2000)                   3.852347
+Open Your Eyes (Abre los ojos) (1997)    3.810317
+Manhattan Murder Mystery (1993)          3.723858
+77
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+78
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+79
+Wallace & Gromit: A Close Shave (1995)         5.000000
+Lilo & Stitch (2002)                           4.941487
+Mickey Blue Eyes (1999)                        4.875084
+Wallace & Gromit: The Wrong Trousers (1993)    4.817748
+Good bye, Lenin! (2003)                        4.814556
+80
+You've Got Mail (1998)    2.000000
+Freaky Friday (2003)      1.962835
+Shrek the Third (2007)    1.956777
+American Gigolo (1980)    1.936492
+Kate & Leopold (2001)     1.932578
+81
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+82
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+83
+X-Men: The Last Stand (2006)    4.000000
+Showgirls (1995)                3.968683
+Bolt (2008)                     3.913554
+Hanna (2011)                    3.903600
+October Sky (1999)              3.794733
+84
+While You Were Sleeping (1995)        1.000000
+Legend of Bagger Vance, The (2000)    1.000000
+Jesus Christ Superstar (1973)         0.986364
+K-19: The Widowmaker (2002)           0.978280
+Sky High (2005)                       0.973124
+85
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+86
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+87
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+88
+Small Time Crooks (2000)                    5.000000
+X-Men (2000)                                5.000000
+Cloudy with a Chance of Meatballs (2009)    4.944718
+12 Years a Slave (2013)                     4.878327
+King and I, The (1956)                      4.838507
+89
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+90
+Zombieland (2009)      4.500000
+Jarhead (2005)         4.450246
+Desperado (1995)       4.439975
+The Revenant (2015)    4.431294
+Hanna (2011)           4.413315
+91
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+92
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+93
+Zombieland (2009)      4.000000
+Jarhead (2005)         3.955774
+Desperado (1995)       3.946645
+The Revenant (2015)    3.938928
+Hanna (2011)           3.922946
+94
+eXistenZ (1999)                          5.000000
+Dead Zone, The (1983)                    4.841229
+Waking the Dead (2000)                   4.815434
+Open Your Eyes (Abre los ojos) (1997)    4.762897
+Manhattan Murder Mystery (1993)          4.654822
+95
+Witness for the Prosecution (1957)    4.000000
+Saving Private Ryan (1998)            3.833333
+Dave (1993)                           3.815836
+Apollo 13 (1995)                      3.718640
+Analyze This (1999)                   3.674235
+96
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+97
+Series([], )
+98
+You've Got Mail (1998)    3.000000
+Freaky Friday (2003)      2.944252
+Shrek the Third (2007)    2.935165
+American Gigolo (1980)    2.904738
+Kate & Leopold (2001)     2.898867
+99
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+100
+X-Files: Fight the Future, The (1998)    3.000000
+Junior (1994)                            2.912779
+Pecker (1998)                            2.910665
+Serpico (1973)                           2.908036
+Lethal Weapon 3 (1992)                   2.900963
+101
+Series([], )
+102
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+103
+Zombieland (2009)      4.500000
+Jarhead (2005)         4.450246
+Desperado (1995)       4.439975
+The Revenant (2015)    4.431294
+Hanna (2011)           4.413315
+104
+¡Three Amigos! (1986)               3.500000
+Everest (1998)                      3.449926
+Little Women (1994)                 3.337119
+Predator 2 (1990)                   3.266815
+Gremlins 2: The New Batch (1990)    3.264307
+105
+WALL·E (2008)                                               5.000000
+Black Mirror (2011)                                         4.909953
+Hellraiser (1987)                                           4.827176
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)    4.717282
+American Werewolf in London, An (1981)                      4.708710
+106
+Arsenic and Old Lace (1944)               0.500000
+Zoolander (2001)                          0.500000
+Twilight (2008)                           0.486834
+The Hunger Games: Catching Fire (2013)    0.475416
+Fletch Lives (1989)                       0.473947
+107
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+108
+Small Time Crooks (2000)                    3.500000
+X-Men (2000)                                3.500000
+Cloudy with a Chance of Meatballs (2009)    3.461302
+12 Years a Slave (2013)                     3.414829
+King and I, The (1956)                      3.386955
+109
+While You Were Sleeping (1995)        5.000000
+Legend of Bagger Vance, The (2000)    5.000000
+Jesus Christ Superstar (1973)         4.931820
+K-19: The Widowmaker (2002)           4.891399
+Sky High (2005)                       4.865618
+110
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+111
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+112
+Waiting to Exhale (1995)         3.000000
+Much Ado About Nothing (1993)    2.618615
+Dave (1993)                      2.236068
+Get Shorty (1995)                2.138359
+Pocahontas (1995)                2.026584
+113
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+114
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+115
+Three Kings (1999)                 1.000000
+Marvin's Room (1996)               1.000000
+Kung Fu Hustle (Gong fu) (2004)    0.958706
+Station Agent, The (2003)          0.958386
+Michael Clayton (2007)             0.944911
+116
+World's Fastest Indian, The (2005)           3.500000
+Toy Story (1995)                             3.049155
+Monty Python and the Holy Grail (1975)       2.815399
+Star Wars: Episode IV - A New Hope (1977)    2.657398
+Terminator, The (1984)                       2.569088
+117
+Zero Effect (1998)            4.000000
+Maltese Falcon, The (1941)    4.000000
+Network (1976)                3.676580
+Parenthood (1989)             3.674235
+Goonies, The (1985)           3.651484
+118
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+119
+Small Time Crooks (2000)                    2.500000
+X-Men (2000)                                2.500000
+Cloudy with a Chance of Meatballs (2009)    2.472359
+12 Years a Slave (2013)                     2.439164
+King and I, The (1956)                      2.419254
+120
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+121
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+122
+Thirteenth Floor, The (1999)    2.000000
+Mr. Holland's Opus (1995)       1.916729
+Karate Kid, The (1984)          1.903690
+Chariots of Fire (1981)         1.888889
+Starship Troopers (1997)        1.864675
+123
+Small Time Crooks (2000)                    3.500000
+X-Men (2000)                                3.500000
+Cloudy with a Chance of Meatballs (2009)    3.461302
+12 Years a Slave (2013)                     3.414829
+King and I, The (1956)                      3.386955
+124
+Young Frankenstein (1974)      4.5
+Death and the Maiden (1994)    4.5
+Quills (2000)                  4.5
+Blown Away (1994)              4.5
+Hilary and Jackie (1998)       4.5
+125
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+126
+While You Were Sleeping (1995)        5.000000
+Legend of Bagger Vance, The (2000)    5.000000
+Jesus Christ Superstar (1973)         4.931820
+K-19: The Widowmaker (2002)           4.891399
+Sky High (2005)                       4.865618
+127
+You've Got Mail (1998)    5.000000
+Freaky Friday (2003)      4.907087
+Shrek the Third (2007)    4.891942
+American Gigolo (1980)    4.841229
+Kate & Leopold (2001)     4.831445
+128
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+129
+Cyrano de Bergerac (1990)             3.000000
+Young Guns (1988)                     3.000000
+Wedding Crashers (2005)               2.940947
+Dracula: Dead and Loving It (1995)    2.916815
+Phone Booth (2002)                    2.906986
+130
+Wonder Boys (2000)    4.000000
+Hope Floats (1998)    3.921224
+Basquiat (1996)       3.916667
+Inception (2010)      3.911870
+Pitch Black (2000)    3.882901
+131
+Series([], )
+132
+Zero Dark Thirty (2012)               4.000000
+Perfect Storm, The (2000)             3.980421
+Place Beyond the Pines, The (2012)    3.956283
+American Sniper (2014)                3.949689
+Lincoln (2012)                        3.939281
+133
+Zombieland (2009)      5.000000
+Jarhead (2005)         4.944718
+Desperado (1995)       4.933306
+The Revenant (2015)    4.923660
+Hanna (2011)           4.903683
+134
+White Man's Burden (1995)    3.000000
+Get Shorty (1995)           -1.224745
+135
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+136
+Wizard of Oz, The (1939)     3.000000
+Indochine (1992)             3.000000
+Lord of the Flies (1990)     3.000000
+Picture Perfect (1997)       3.000000
+Jackass: The Movie (2002)    2.915053
+137
+Sicario (2015)                  0.500000
+X2: X-Men United (2003)         0.500000
+Wreck-It Ralph (2012)           0.486442
+40 Days and 40 Nights (2002)    0.471464
+Zero Dark Thirty (2012)         0.470951
+138
+Vegas Vacation (National Lampoon's Las Vegas Vacation) (1997)    2.500000
+Cable Guy, The (1996)                                            2.408834
+Airplane II: The Sequel (1982)                                   2.399013
+Godfather: Part III, The (1990)                                  2.379543
+Batman & Robin (1997)                                            2.377165
+139
+Series([], )
+140
+Small Time Crooks (2000)                    2.000000
+X-Men (2000)                                2.000000
+Cloudy with a Chance of Meatballs (2009)    1.977887
+12 Years a Slave (2013)                     1.951331
+King and I, The (1956)                      1.935403
+141
+Young Guns II (1990)                                1.000000
+Police Academy 6: City Under Siege (1989)           0.963087
+U Turn (1997)                                       0.941742
+Gattaca (1997)                                      0.921417
+Police Academy 5: Assignment: Miami Beach (1988)    0.911465
+142
+X-Men: The Last Stand (2006)    3.500000
+Showgirls (1995)                3.472598
+Bolt (2008)                     3.424360
+Hanna (2011)                    3.415650
+October Sky (1999)              3.320392
+143
+U.S. Marshals (1998)                  4.000000
+Bottle Rocket (1996)                  4.000000
+What's Eating Gilbert Grape (1993)    4.000000
+Devil's Own, The (1997)               3.857143
+Thunderball (1965)                    3.815836
+144
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+145
+¡Three Amigos! (1986)               3.500000
+Everest (1998)                      3.449926
+Little Women (1994)                 3.337119
+Predator 2 (1990)                   3.266815
+Gremlins 2: The New Batch (1990)    3.264307
+146
+When a Man Loves a Woman (1994)    3.500000
+King and I, The (1956)             3.500000
+Perfect Storm, The (2000)          3.400154
+American History X (1998)          3.388860
+Sex, Lies, and Videotape (1989)    3.357148
+147
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+148
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+149
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+150
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+151
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+152
+Wedding Singer, The (1998)    5.000000
+Caligula (1979)               4.889012
+Dish, The (2001)              4.801708
+Man of Steel (2013)           4.791864
+Blue Crush (2002)             4.721337
+153
+Truth About Cats & Dogs, The (1996)    3.000000
+Great Santini, The (1979)              3.000000
+Flipper (1996)                         3.000000
+Red Rock West (1992)                   2.937500
+AVP: Alien vs. Predator (2004)         2.930902
+154
+Wallace & Gromit: The Wrong Trousers (1993)    5.000000
+Sexy Beast (2000)                              5.000000
+Holiday Inn (1942)                             5.000000
+Jean de Florette (1986)                        4.941059
+Joe Versus the Volcano (1990)                  4.914899
+155
+Arsenic and Old Lace (1944)               4.500000
+Zoolander (2001)                          4.500000
+Twilight (2008)                           4.381504
+The Hunger Games: Catching Fire (2013)    4.278743
+Fletch Lives (1989)                       4.265526
+156
+Series([], )
+157
+Series([], )
+158
+Philadelphia Story, The (1940)     4.000000
+Westworld (1973)                   4.000000
+Man with Two Brains, The (1983)    3.956283
+Running Man, The (1987)            3.872983
+Twister (1996)                     3.834825
+159
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+160
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+161
+She's All That (1999)                4.0
+Cool Runnings (1993)                 4.0
+Nell (1994)                          4.0
+Up Close and Personal (1996)         4.0
+Back to the Future Part II (1989)    4.0
+162
+Small Time Crooks (2000)                    3.500000
+X-Men (2000)                                3.500000
+Cloudy with a Chance of Meatballs (2009)    3.461302
+12 Years a Slave (2013)                     3.414829
+King and I, The (1956)                      3.386955
+163
+World's Fastest Indian, The (2005)           3.000000
+Toy Story (1995)                             2.613561
+Monty Python and the Holy Grail (1975)       2.413199
+Star Wars: Episode IV - A New Hope (1977)    2.277770
+Terminator, The (1984)                       2.202076
+164
+xXx (2002)                        1.000000
+Avengers: Age of Ultron (2015)    0.996024
+Bringing Down the House (2003)    0.983170
+Little Shop of Horrors (1986)     0.973124
+Jumper (2008)                     0.968461
+165
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+166
+Raisin in the Sun, A (1961)              4.000000
+They Shoot Horses, Don't They? (1969)    4.000000
+Terminator, The (1984)                   4.000000
+Frailty (2001)                           3.933469
+Maze Runner, The (2014)                  3.926810
+167
+With Honors (1994)                       2.000000
+Only You (1994)                          2.000000
+Ever After: A Cinderella Story (1998)    2.000000
+Mickey Blue Eyes (1999)                  1.909572
+She's All That (1999)                    1.905159
+168
+Series([], )
+169
+Edge, The (1997)             4.500000
+Wild Things (1998)           4.500000
+Boomerang (1992)             4.482107
+For Your Eyes Only (1981)    4.439605
+Spartacus (1960)             4.411881
+170
+Edge, The (1997)             3.000000
+Wild Things (1998)           3.000000
+Boomerang (1992)             2.988072
+For Your Eyes Only (1981)    2.959737
+Spartacus (1960)             2.941254
+171
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+172
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+173
+Three Musketeers, The (1993)         4.000000
+Blue Streak (1999)                   4.000000
+Color Purple, The (1985)             4.000000
+Last Emperor, The (1987)             3.852347
+Nightmare on Elm Street, A (1984)    3.843485
+174
+You've Got Mail (1998)    2.000000
+Freaky Friday (2003)      1.962835
+Shrek the Third (2007)    1.956777
+American Gigolo (1980)    1.936492
+Kate & Leopold (2001)     1.932578
+175
+Arsenic and Old Lace (1944)               0.500000
+Zoolander (2001)                          0.500000
+Twilight (2008)                           0.486834
+The Hunger Games: Catching Fire (2013)    0.475416
+Fletch Lives (1989)                       0.473947
+176
+X-Files: Fight the Future, The (1998)    5.000000
+Junior (1994)                            4.854632
+Pecker (1998)                            4.851108
+Serpico (1973)                           4.846727
+Lethal Weapon 3 (1992)                   4.834938
+177
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+178
+Wedding Crashers (2005)     4.000000
+Pitch Perfect 2 (2015)      3.944467
+Finding Forrester (2000)    3.936251
+Young Guns (1988)           3.921262
+Bank Job, The (2008)        3.906952
+179
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+180
+Clash of the Titans (1981)        5.000000
+Cyrano de Bergerac (1990)         5.000000
+True Romance (1993)               5.000000
+Thirteen Days (2000)              4.778958
+Silver Linings Playbook (2012)    4.769795
+181
+Wyatt Earp (1994)         4.000000
+Heat (1995)               4.000000
+Platoon (1986)            3.777618
+Demolition Man (1993)     3.763863
+American Beauty (1999)    3.585686
+182
+Virgin Suicides, The (1999)                   4.000000
+Shutter Island (2010)                         3.847296
+Slumdog Millionaire (2008)                    3.835706
+Ocean's Twelve (2004)                         3.726780
+Life Aquatic with Steve Zissou, The (2004)    3.679673
+183
+U.S. Marshals (1998)                  4.000000
+Bottle Rocket (1996)                  4.000000
+What's Eating Gilbert Grape (1993)    4.000000
+Devil's Own, The (1997)               3.857143
+Thunderball (1965)                    3.815836
+184
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+185
+Waking Life (2001)          4.500000
+Happiness (1998)            3.976818
+Good Will Hunting (1997)    3.583893
+Pi (1998)                   3.416632
+Secretary (2002)            3.165209
+186
+Zodiac (2007)             4.500000
+American Sniper (2014)    4.437526
+Wonder Boys (2000)        4.357106
+Peter Pan (1953)          4.282802
+Robin Hood (1973)         4.282802
+187
+Winnie the Pooh and the Blustery Day (1968)                  3.000000
+Boot, Das (Boat, The) (1981)                                 3.000000
+Notting Hill (1999)                                          2.838043
+Welcome to the Dollhouse (1995)                              2.666629
+Lord of the Rings: The Fellowship of the Ring, The (2001)    2.626634
+188
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+189
+eXistenZ (1999)                          3.000000
+Dead Zone, The (1983)                    2.904738
+Waking the Dead (2000)                   2.889260
+Open Your Eyes (Abre los ojos) (1997)    2.857738
+Manhattan Murder Mystery (1993)          2.792893
+190
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+191
+Waterworld (1995)                    2.000000
+Medicine Man (1992)                  2.000000
+Up in the Air (2009)                 2.000000
+Andromeda Strain, The (1971)         1.974637
+Mad Max Beyond Thunderdome (1985)    1.966271
+192
+U.S. Marshals (1998)                  5.000000
+Bottle Rocket (1996)                  5.000000
+What's Eating Gilbert Grape (1993)    5.000000
+Devil's Own, The (1997)               4.821429
+Thunderball (1965)                    4.769795
+193
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+194
+Pinocchio (1940)                2.000000
+Young Sherlock Holmes (1985)    2.000000
+Superman II (1980)              1.925067
+Lethal Weapon 3 (1992)          1.860521
+Labyrinth (1986)                1.837117
+195
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+196
+X-Files: Fight the Future, The (1998)    5.000000
+Junior (1994)                            4.854632
+Pecker (1998)                            4.851108
+Serpico (1973)                           4.846727
+Lethal Weapon 3 (1992)                   4.834938
+197
+You Can Count on Me (2000)    4.000000
+Midnight Express (1978)       3.491486
+Jacob's Ladder (1990)         3.442652
+Clockwork Orange, A (1971)    3.293368
+Chasing Amy (1997)            3.282778
+198
+Zombieland (2009)      4.000000
+Jarhead (2005)         3.955774
+Desperado (1995)       3.946645
+The Revenant (2015)    3.938928
+Hanna (2011)           3.922946
+199
+Yes Man (2008)                 3.500000
+Big (1988)                     3.458741
+The Butterfly Effect (2004)    3.414829
+Shrek the Third (2007)         3.397539
+Whiplash (2014)                3.370804
+200
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+201
+Vegas Vacation (National Lampoon's Las Vegas Vacation) (1997)    4.000000
+Cable Guy, The (1996)                                            3.854135
+Airplane II: The Sequel (1982)                                   3.838421
+Godfather: Part III, The (1990)                                  3.807269
+Batman & Robin (1997)                                            3.803464
+202
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+203
+Truman Show, The (1998)           4.000000
+The Man from U.N.C.L.E. (2015)    3.942110
+Despicable Me 2 (2013)            3.933660
+Side Effects (2013)               3.913968
+Marnie (1964)                     3.903600
+204
+Zombieland (2009)      2.500000
+Jarhead (2005)         2.472359
+Desperado (1995)       2.466653
+The Revenant (2015)    2.461830
+Hanna (2011)           2.451841
+205
+Black Cauldron, The (1985)        3.000000
+When Harry Met Sally... (1989)    3.000000
+Night at the Roxbury, A (1998)    2.985316
+Gone Girl (2014)                  2.877129
+Sweet Smell of Success (1957)     2.854986
+206
+Beverly Hillbillies, The (1993)        3.000000
+Tommy Boy (1995)                       3.000000
+Drop Zone (1994)                       2.954421
+Major League (1989)                    2.876168
+Mr. Smith Goes to Washington (1939)    2.755676
+207
+X-Men: Days of Future Past (2014)         4.500000
+Dumb & Dumber (Dumb and Dumber) (1994)    4.170922
+Knight and Day (2010)                     4.135582
+Remember the Titans (2000)                4.054438
+Chappie (2015)                            4.015068
+208
+Young Frankenstein (1974)      2.0
+Death and the Maiden (1994)    2.0
+Quills (2000)                  2.0
+Blown Away (1994)              2.0
+Hilary and Jackie (1998)       2.0
+209
+Black Cauldron, The (1985)        2.500000
+When Harry Met Sally... (1989)    2.500000
+Night at the Roxbury, A (1998)    2.487763
+Gone Girl (2014)                  2.397608
+Sweet Smell of Success (1957)     2.379155
+210
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+211
+xXx (2002)                        2.000000
+Avengers: Age of Ultron (2015)    1.992048
+Bringing Down the House (2003)    1.966340
+Little Shop of Horrors (1986)     1.946247
+Jumper (2008)                     1.936922
+212
+xXx (2002)                        3.500000
+Avengers: Age of Ultron (2015)    3.486083
+Bringing Down the House (2003)    3.441096
+Little Shop of Horrors (1986)     3.405933
+Jumper (2008)                     3.389614
+213
+Tender Mercies (1983)                                               4.000000
+Yellow Submarine (1968)                                             4.000000
+Cheech and Chong's Up in Smoke (1978)                               3.913119
+Charlie's Angels (2000)                                             3.813850
+Monty Python's And Now for Something Completely Different (1971)    3.810317
+214
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+215
+Wonder Boys (2000)    4.500000
+Hope Floats (1998)    4.411377
+Basquiat (1996)       4.406250
+Inception (2010)      4.400854
+Pitch Black (2000)    4.368264
+216
+Young Frankenstein (1974)      2.5
+Death and the Maiden (1994)    2.5
+Quills (2000)                  2.5
+Blown Away (1994)              2.5
+Hilary and Jackie (1998)       2.5
+217
+Wizard of Oz, The (1939)     3.500000
+Indochine (1992)             3.500000
+Lord of the Flies (1990)     3.500000
+Picture Perfect (1997)       3.500000
+Jackass: The Movie (2002)    3.400895
+218
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+219
+eXistenZ (1999)                          2.000000
+Dead Zone, The (1983)                    1.936492
+Waking the Dead (2000)                   1.926174
+Open Your Eyes (Abre los ojos) (1997)    1.905159
+Manhattan Murder Mystery (1993)          1.861929
+220
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+221
+White Christmas (1954)                                                            3.000000
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)    2.831350
+Chicken Run (2000)                                                                2.818009
+Holiday Inn (1942)                                                                2.802596
+Superman (1978)                                                                   2.797514
+222
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+223
+Widows' Peak (1994)                  4.000000
+Get Shorty (1995)                    3.491486
+Pretty Woman (1990)                  3.474396
+Dolores Claiborne (1995)             3.380617
+Ace Ventura: Pet Detective (1994)    3.380617
+224
+Waterworld (1995)                    4.000000
+Medicine Man (1992)                  4.000000
+Up in the Air (2009)                 4.000000
+Andromeda Strain, The (1971)         3.949273
+Mad Max Beyond Thunderdome (1985)    3.932542
+225
+Whole Nine Yards, The (2000)       2.500000
+Constantine (2005)                 2.357320
+Godfather: Part III, The (1990)    2.232485
+Can't Hardly Wait (1998)           2.157089
+East of Eden (1955)                2.096314
+226
+Blade (1998)                          5.000000
+Waterboy, The (1998)                  5.000000
+National Lampoon's Vacation (1983)    4.892461
+Gods and Monsters (1998)              4.813255
+Metropolitan (1990)                   4.728054
+227
+¡Three Amigos! (1986)               5.000000
+Everest (1998)                      4.928466
+Little Women (1994)                 4.767313
+Predator 2 (1990)                   4.666878
+Gremlins 2: The New Batch (1990)    4.663295
+228
+Tsotsi (2005)                             4.000000
+One Flew Over the Cuckoo's Nest (1975)    3.207135
+Godfather, The (1972)                    -0.534522
+229
+Wristcutters: A Love Story (2006)           5.000000
+Snatch (2000)                               3.227486
+Lock, Stock & Two Smoking Barrels (1998)    2.112886
+Office Space (1999)                         1.336306
+Little Miss Sunshine (2006)                 0.599329
+230
+Mildred Pierce (1945)                      3.000000
+What Ever Happened to Baby Jane? (1962)    3.000000
+All That Jazz (1979)                       3.000000
+City Lights (1931)                         2.957702
+Moonraker (1979)                           2.941742
+231
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+232
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+233
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+234
+Young Einstein (1988)         3.500000
+True Lies (1994)              3.429853
+Mission: Impossible (1996)    3.316625
+Pretty Woman (1990)           3.119540
+Ocean's Eleven (2001)         3.083333
+235
+Series([], )
+236
+Witness (1985)                  3.000000
+We Were Soldiers (2002)         2.934839
+Road Trip (2000)                2.836833
+Friday (1995)                   2.806756
+Shadow of the Vampire (2000)    2.794655
+237
+You've Got Mail (1998)    3.000000
+Freaky Friday (2003)      2.944252
+Shrek the Third (2007)    2.935165
+American Gigolo (1980)    2.904738
+Kate & Leopold (2001)     2.898867
+238
+Series([], )
+239
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+240
+Omega Man, The (1971)         4.0
+Usual Suspects, The (1995)    4.0
+Last Detail, The (1973)       4.0
+Shall We Dance (1937)         4.0
+General, The (1998)           4.0
+241
+Zero Effect (1998)            5.000000
+Maltese Falcon, The (1941)    5.000000
+Network (1976)                4.595725
+Parenthood (1989)             4.592793
+Goonies, The (1985)           4.564355
+242
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+243
+Wedding Crashers (2005)     4.000000
+Pitch Perfect 2 (2015)      3.944467
+Finding Forrester (2000)    3.936251
+Young Guns (1988)           3.921262
+Bank Job, The (2008)        3.906952
+244
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+245
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+246
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+247
+Yards, The (2000)                       4.000000
+Terminator, The (1984)                  3.500000
+Alien (1979)                            3.474396
+Independence Day (a.k.a. ID4) (1996)    3.316625
+Back to the Future Part II (1989)       3.037026
+248
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+249
+Zootopia (2016)                                          5.000000
+Prestige, The (2006)                                     4.782726
+Lord of the Rings: The Return of the King, The (2003)    4.620955
+Jurassic Park (1993)                                     4.582608
+Independence Day (a.k.a. ID4) (1996)                     4.581567
+250
+X-Men: First Class (2011)    5.000000
+Blow (2001)                  4.934666
+Aviator, The (2004)          4.927637
+Dead Poets Society (1989)    4.919520
+Hugo (2011)                  4.913485
+251
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+252
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+253
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+254
+Wrestler, The (2008)                                   4.500000
+Captain America: The First Avenger (2011)              4.471209
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)          4.440288
+Lives of Others, The (Das leben der Anderen) (2006)    4.405555
+Hotel Rwanda (2004)                                    4.396411
+255
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+256
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+257
+Mildred Pierce (1945)                      5.000000
+What Ever Happened to Baby Jane? (1962)    5.000000
+All That Jazz (1979)                       5.000000
+City Lights (1931)                         4.929503
+Moonraker (1979)                           4.902903
+258
+Untouchables, The (1987)     3.000000
+Doctor Dolittle (1967)       2.927700
+Cyrano de Bergerac (1990)    2.890030
+Jingle All the Way (1996)    2.890030
+Celebrity (1998)             2.875915
+259
+V for Vendetta (2006)                                                         5.000000
+March of the Penguins (Marche de l'empereur, La) (2005)                       4.903683
+Pretty in Pink (1986)                                                         4.885042
+Cop Out (2010)                                                                4.850713
+Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)    4.844110
+260
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+261
+Series([], )
+262
+Wizard of Oz, The (1939)     3.000000
+Indochine (1992)             3.000000
+Lord of the Flies (1990)     3.000000
+Picture Perfect (1997)       3.000000
+Jackass: The Movie (2002)    2.915053
+263
+American Beauty (1999)                 4.000000
+Dog Day Afternoon (1975)               4.000000
+World According to Garp, The (1982)    4.000000
+Babe (1995)                            4.000000
+All the President's Men (1976)         3.726207
+264
+Jerk, The (1979)                                 3.000000
+Year of Living Dangerously, The (1982)           3.000000
+Arthur (1981)                                    2.934839
+National Lampoon's Vacation (1983)               2.919371
+Star Trek VI: The Undiscovered Country (1991)    2.904738
+265
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+266
+Wonder Boys (2000)    4.000000
+Hope Floats (1998)    3.921224
+Basquiat (1996)       3.916667
+Inception (2010)      3.911870
+Pitch Black (2000)    3.882901
+267
+Series([], )
+268
+Wings of the Dove, The (1997)    4.000000
+Maltese Falcon, The (1941)       3.771711
+Raging Bull (1980)               3.651484
+Heavenly Creatures (1994)        3.544588
+Matrix, The (1999)               3.531752
+269
+Series([], )
+270
+Sicario (2015)                  4.500000
+X2: X-Men United (2003)         4.500000
+Wreck-It Ralph (2012)           4.377981
+40 Days and 40 Nights (2002)    4.243175
+Zero Dark Thirty (2012)         4.238561
+271
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+272
+Sicario (2015)                  4.500000
+X2: X-Men United (2003)         4.500000
+Wreck-It Ralph (2012)           4.377981
+40 Days and 40 Nights (2002)    4.243175
+Zero Dark Thirty (2012)         4.238561
+273
+Waiting for Guffman (1996)                      4.000000
+Nine Months (1995)                              3.891185
+Miller's Crossing (1990)                        3.696966
+Golden Child, The (1986)                        3.674235
+Anchorman: The Legend of Ron Burgundy (2004)    3.668242
+274
+Zombieland (2009)      4.000000
+Jarhead (2005)         3.955774
+Desperado (1995)       3.946645
+The Revenant (2015)    3.938928
+Hanna (2011)           3.922946
+275
+X-Files: Fight the Future, The (1998)    2.000000
+Junior (1994)                            1.941853
+Pecker (1998)                            1.940443
+Serpico (1973)                           1.938691
+Lethal Weapon 3 (1992)                   1.933975
+276
+Series([], )
+277
+Series([], )
+278
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+279
+True Lies (1994)         4.000000
+Clean Slate (1994)       4.000000
+Coma (1978)              3.956283
+Young Einstein (1988)    3.919832
+Animal, The (2001)       3.919184
+280
+Series([], )
+281
+Witness (1985)                  3.500000
+We Were Soldiers (2002)         3.423979
+Road Trip (2000)                3.309638
+Friday (1995)                   3.274548
+Shadow of the Vampire (2000)    3.260431
+282
+Series([], )
+283
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+284
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+285
+Wall Street (1987)             1.000000
+I Am Legend (2007)             0.980841
+Prince of Egypt, The (1998)    0.979958
+300 (2007)                     0.977805
+Resident Evil (2002)           0.971694
+286
+Zootopia (2016)                                          5.000000
+Prestige, The (2006)                                     4.782726
+Lord of the Rings: The Return of the King, The (2003)    4.620955
+Jurassic Park (1993)                                     4.582608
+Independence Day (a.k.a. ID4) (1996)                     4.581567
+287
+U.S. Marshals (1998)                  4.000000
+Bottle Rocket (1996)                  4.000000
+What's Eating Gilbert Grape (1993)    4.000000
+Devil's Own, The (1997)               3.857143
+Thunderball (1965)                    3.815836
+288
+U-571 (2000)                 0.500000
+Hancock (2008)               0.497389
+Déjà Vu (Deja Vu) (2006)     0.494472
+Courage Under Fire (1996)    0.490351
+True Grit (2010)             0.487508
+289
+X-Files: Fight the Future, The (1998)    5.000000
+Junior (1994)                            4.854632
+Pecker (1998)                            4.851108
+Serpico (1973)                           4.846727
+Lethal Weapon 3 (1992)                   4.834938
+290
+Sicario (2015)                  3.500000
+X2: X-Men United (2003)         3.500000
+Wreck-It Ralph (2012)           3.405097
+40 Days and 40 Nights (2002)    3.300247
+Zero Dark Thirty (2012)         3.296659
+291
+You've Got Mail (1998)    3.500000
+Freaky Friday (2003)      3.434961
+Shrek the Third (2007)    3.424360
+American Gigolo (1980)    3.388860
+Kate & Leopold (2001)     3.382011
+292
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+293
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+294
+Young Frankenstein (1974)      3.5
+Death and the Maiden (1994)    3.5
+Quills (2000)                  3.5
+Blown Away (1994)              3.5
+Hilary and Jackie (1998)       3.5
+295
+Where the Heart Is (2000)    4.000000
+Radio Days (1987)            4.000000
+Boogie Nights (1997)         3.810317
+Beach, The (2000)            3.766968
+Election (1999)              3.726780
+296
+Zack and Miri Make a Porno (2008)    3.000000
+Bad Boys (1995)                      2.863470
+GoldenEye (1995)                     2.860388
+Addams Family Values (1993)          2.860388
+Adaptation (2002)                    2.829727
+297
+Series([], )
+298
+eXistenZ (1999)                          4.000000
+Dead Zone, The (1983)                    3.872983
+Waking the Dead (2000)                   3.852347
+Open Your Eyes (Abre los ojos) (1997)    3.810317
+Manhattan Murder Mystery (1993)          3.723858
+299
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)    4.500000
+Angels in America (2003)                     4.331400
+Jack Reacher (2012)                          4.321537
+Black Cauldron, The (1985)                   4.290582
+My Own Private Idaho (1991)                  4.178145
+300
+Tender Mercies (1983)                                               4.000000
+Yellow Submarine (1968)                                             4.000000
+Cheech and Chong's Up in Smoke (1978)                               3.913119
+Charlie's Angels (2000)                                             3.813850
+Monty Python's And Now for Something Completely Different (1971)    3.810317
+301
+Nothing in Common (1986)             3.000000
+Terminator 2: Judgment Day (1991)    3.000000
+Men Don't Leave (1990)               3.000000
+Dead Man (1995)                      2.904758
+Get Carter (2000)                    2.889260
+302
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+303
+Weekend at Bernie's (1989)        1.500000
+Cell, The (2000)                  1.500000
+Lord of the Rings, The (1978)     1.444630
+Airplane II: The Sequel (1982)    1.441153
+Doors, The (1991)                 1.393902
+304
+True Lies (1994)         2.000000
+Clean Slate (1994)       2.000000
+Coma (1978)              1.978141
+Young Einstein (1988)    1.959916
+Animal, The (2001)       1.959592
+305
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+306
+Woodsman, The (2004)                   4.000000
+Snatch (2000)                          3.767109
+Ghost World (2001)                     3.651484
+City of God (Cidade de Deus) (2002)    3.568871
+Dogma (1999)                           3.500000
+307
+Willy Wonka & the Chocolate Factory (1971)    2.000000
+Day of the Jackal, The (1973)                 2.000000
+Celebrity (1998)                              2.000000
+Great Santini, The (1979)                     2.000000
+Kicking and Screaming (1995)                  1.979654
+308
+Series([], )
+309
+Clue (1985)                                          1.000000
+Star Trek: The Motion Picture (1979)                 1.000000
+Name of the Rose, The (Name der Rose, Der) (1986)    0.985515
+Long Kiss Goodnight, The (1996)                      0.972887
+Pelican Brief, The (1993)                            0.970143
+310
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+311
+You've Got Mail (1998)    1.000000
+Freaky Friday (2003)      0.981417
+Shrek the Third (2007)    0.978388
+American Gigolo (1980)    0.968246
+Kate & Leopold (2001)     0.966289
+312
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+313
+Whiplash (2014)                          4.500000
+Aviator, The (2004)                      4.417529
+Yes Man (2008)                           4.333891
+Side Effects (2013)                      4.281444
+Dr. Horrible's Sing-Along Blog (2008)    4.279717
+314
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+315
+Arsenic and Old Lace (1944)               3.500000
+Zoolander (2001)                          3.500000
+Twilight (2008)                           3.407837
+The Hunger Games: Catching Fire (2013)    3.327911
+Fletch Lives (1989)                       3.317631
+316
+Waterworld (1995)                    4.000000
+Medicine Man (1992)                  4.000000
+Up in the Air (2009)                 4.000000
+Andromeda Strain, The (1971)         3.949273
+Mad Max Beyond Thunderdome (1985)    3.932542
+317
+William Shakespeare's Romeo + Juliet (1996)                     3.000000
+What Dreams May Come (1998)                                     2.975991
+Raise the Red Lantern (Da hong deng long gao gao gua) (1991)    2.972040
+Mighty Wind, A (2003)                                           2.929615
+There Will Be Blood (2007)                                      2.909630
+318
+True Lies (1994)         3.000000
+Clean Slate (1994)       3.000000
+Coma (1978)              2.967212
+Young Einstein (1988)    2.939874
+Animal, The (2001)       2.939388
+319
+WALL·E (2008)                                               2.500000
+Black Mirror (2011)                                         2.454977
+Hellraiser (1987)                                           2.413588
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)    2.358641
+American Werewolf in London, An (1981)                      2.354355
+320
+Jerk, The (1979)                                 4.000000
+Year of Living Dangerously, The (1982)           4.000000
+Arthur (1981)                                    3.913119
+National Lampoon's Vacation (1983)               3.892495
+Star Trek VI: The Undiscovered Country (1991)    3.872983
+321
+Vertigo (1958)                                          5.000000
+Trip to the Moon, A (Voyage dans la lune, Le) (1902)    4.884399
+On Her Majesty's Secret Service (1969)                  4.875084
+All That Jazz (1979)                                    4.861359
+Brokeback Mountain (2005)                               4.841229
+322
+Once Were Warriors (1994)    3.000000
+Traffic (2000)               3.000000
+Misérables, Les (1998)       2.945825
+Hairspray (1988)             2.875118
+Spotlight (2015)             2.865215
+323
+Sicario (2015)                  3.500000
+X2: X-Men United (2003)         3.500000
+Wreck-It Ralph (2012)           3.405097
+40 Days and 40 Nights (2002)    3.300247
+Zero Dark Thirty (2012)         3.296659
+324
+Willow (1988)                 1.000000
+Straight Story, The (1999)    1.000000
+Volcano (1997)                0.948505
+Persuasion (1995)             0.947004
+Grand Canyon (1991)           0.931552
+325
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+326
+eXistenZ (1999)                          2.000000
+Dead Zone, The (1983)                    1.936492
+Waking the Dead (2000)                   1.926174
+Open Your Eyes (Abre los ojos) (1997)    1.905159
+Manhattan Murder Mystery (1993)          1.861929
+327
+Young Frankenstein (1974)      3.5
+Death and the Maiden (1994)    3.5
+Quills (2000)                  3.5
+Blown Away (1994)              3.5
+Hilary and Jackie (1998)       3.5
+328
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+329
+12 Angry Men (1957)                                                                            4.0
+Tron (1982)                                                                                    4.0
+Clerks (1994)                                                                                  4.0
+Clueless (1995)                                                                                4.0
+Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988)    4.0
+330
+French Connection, The (1971)                                        3.000000
+Wayne's World 2 (1993)                                               3.000000
+Christmas Vacation (National Lampoon's Christmas Vacation) (1989)    2.939874
+Excalibur (1981)                                                     2.867106
+Godzilla (1998)                                                      2.861877
+331
+Sicario (2015)                  1.500000
+X2: X-Men United (2003)         1.500000
+Wreck-It Ralph (2012)           1.459327
+40 Days and 40 Nights (2002)    1.414392
+Zero Dark Thirty (2012)         1.412854
+332
+World's Fastest Indian, The (2005)           3.500000
+Toy Story (1995)                             3.049155
+Monty Python and the Holy Grail (1975)       2.815399
+Star Wars: Episode IV - A New Hope (1977)    2.657398
+Terminator, The (1984)                       2.569088
+333
+Whiplash (2014)                          4.500000
+Aviator, The (2004)                      4.417529
+Yes Man (2008)                           4.333891
+Side Effects (2013)                      4.281444
+Dr. Horrible's Sing-Along Blog (2008)    4.279717
+334
+Thunderball (1965)                    2.500000
+For Your Eyes Only (1981)             2.454951
+Vertigo (1958)                        2.407717
+What's Eating Gilbert Grape (1993)    2.384898
+Raging Bull (1980)                    2.355421
+335
+Wizard of Oz, The (1939)     5.000000
+Indochine (1992)             5.000000
+Lord of the Flies (1990)     5.000000
+Picture Perfect (1997)       5.000000
+Jackass: The Movie (2002)    4.858421
+336
+Nothing in Common (1986)             5.000000
+Terminator 2: Judgment Day (1991)    5.000000
+Men Don't Leave (1990)               5.000000
+Dead Man (1995)                      4.841263
+Get Carter (2000)                    4.815434
+337
+U.S. Marshals (1998)                  5.000000
+Bottle Rocket (1996)                  5.000000
+What's Eating Gilbert Grape (1993)    5.000000
+Devil's Own, The (1997)               4.821429
+Thunderball (1965)                    4.769795
+338
+xXx (2002)                        3.500000
+Avengers: Age of Ultron (2015)    3.486083
+Bringing Down the House (2003)    3.441096
+Little Shop of Horrors (1986)     3.405933
+Jumper (2008)                     3.389614
+339
+Universal Soldier (1992)        2.500000
+Last Samurai, The (2003)        2.361111
+Bridget Jones's Diary (2001)    2.341952
+Natural Born Killers (1994)     2.324337
+Predator 2 (1990)               2.182179
+340
+West Side Story (1961)                       3.000000
+Red Violin, The (Violon rouge, Le) (1998)    2.892857
+Planet of the Apes (2001)                    2.875118
+Monster (2003)                               2.862941
+Rush Hour 2 (2001)                           2.852396
+341
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+342
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+343
+Cyrano de Bergerac (1990)             3.000000
+Young Guns (1988)                     3.000000
+Wedding Crashers (2005)               2.940947
+Dracula: Dead and Loving It (1995)    2.916815
+Phone Booth (2002)                    2.906986
+344
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+345
+eXistenZ (1999)                          2.000000
+Dead Zone, The (1983)                    1.936492
+Waking the Dead (2000)                   1.926174
+Open Your Eyes (Abre los ojos) (1997)    1.905159
+Manhattan Murder Mystery (1993)          1.861929
+346
+Midnight Express (1978)        3.500000
+Trainspotting (1996)           3.500000
+King and I, The (1956)         3.500000
+Mickey Blue Eyes (1999)        3.375000
+Night to Remember, A (1958)    3.356651
+347
+Series([], )
+348
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+349
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+350
+Small Time Crooks (2000)                    5.000000
+X-Men (2000)                                5.000000
+Cloudy with a Chance of Meatballs (2009)    4.944718
+12 Years a Slave (2013)                     4.878327
+King and I, The (1956)                      4.838507
+351
+Zombieland (2009)      3.500000
+Jarhead (2005)         3.461302
+Desperado (1995)       3.453314
+The Revenant (2015)    3.446562
+Hanna (2011)           3.432578
+352
+xXx (2002)                        2.500000
+Avengers: Age of Ultron (2015)    2.490060
+Bringing Down the House (2003)    2.457925
+Little Shop of Horrors (1986)     2.432809
+Jumper (2008)                     2.421153
+353
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+354
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+355
+Wolf (1994)                      2.500000
+Total Recall (1990)              2.370130
+Contact (1997)                   2.259054
+Miracle on 34th Street (1994)    2.237859
+Armageddon (1998)                2.231774
+356
+Wallace & Gromit: The Best of Aardman Animation (1996)    5.000000
+Creature Comforts (1989)                                  5.000000
+Patton (1970)                                             4.941059
+Rosencrantz and Guildenstern Are Dead (1990)              4.914361
+Roxanne (1987)                                            4.901578
+357
+¡Three Amigos! (1986)               1.000000
+Everest (1998)                      0.985693
+Little Women (1994)                 0.953463
+Predator 2 (1990)                   0.933376
+Gremlins 2: The New Batch (1990)    0.932659
+358
+Whale Rider (2002)           4.500000
+Enemy of the State (1998)    4.456267
+Phone Booth (2002)           4.432614
+Aviator, The (2004)          4.429725
+One Hour Photo (2002)        4.408448
+359
+Witness (1985)                  4.000000
+We Were Soldiers (2002)         3.913119
+Road Trip (2000)                3.782443
+Friday (1995)                   3.742341
+Shadow of the Vampire (2000)    3.726207
+360
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+361
+Witness (1985)                  3.500000
+We Were Soldiers (2002)         3.423979
+Road Trip (2000)                3.309638
+Friday (1995)                   3.274548
+Shadow of the Vampire (2000)    3.260431
+362
+Wizard of Oz, The (1939)     5.000000
+Indochine (1992)             5.000000
+Lord of the Flies (1990)     5.000000
+Picture Perfect (1997)       5.000000
+Jackass: The Movie (2002)    4.858421
+363
+You've Got Mail (1998)    5.000000
+Freaky Friday (2003)      4.907087
+Shrek the Third (2007)    4.891942
+American Gigolo (1980)    4.841229
+Kate & Leopold (2001)     4.831445
+364
+Arsenic and Old Lace (1944)               3.000000
+Zoolander (2001)                          3.000000
+Twilight (2008)                           2.921003
+The Hunger Games: Catching Fire (2013)    2.852495
+Fletch Lives (1989)                       2.843684
+365
+Honey, I Blew Up the Kid (1992)    3.000000
+Weird Science (1985)               3.000000
+Cocoon: The Return (1988)          3.000000
+Tales from the Hood (1995)         2.926996
+Real Genius (1985)                 2.914419
+366
+Zero Effect (1998)            2.000000
+Maltese Falcon, The (1941)    2.000000
+Network (1976)                1.838290
+Parenthood (1989)             1.837117
+Goonies, The (1985)           1.825742
+367
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+368
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+369
+Wing Commander (1999)                               0.500000
+Independence Day (a.k.a. ID4) (1996)                0.448869
+Star Wars: Episode I - The Phantom Menace (1999)    0.439687
+Braveheart (1995)                                   0.375000
+Jurassic Park (1993)                                0.372678
+370
+Papillon (1973)                                   4.000000
+What Women Want (2000)                            4.000000
+Lucky Number Slevin (2006)                        3.921715
+Babel (2006)                                      3.876085
+Cinema Paradiso (Nuovo cinema Paradiso) (1989)    3.872983
+371
+Young Frankenstein (1974)      2.0
+Death and the Maiden (1994)    2.0
+Quills (2000)                  2.0
+Blown Away (1994)              2.0
+Hilary and Jackie (1998)       2.0
+372
+Young Frankenstein (1974)      3.0
+Death and the Maiden (1994)    3.0
+Quills (2000)                  3.0
+Blown Away (1994)              3.0
+Hilary and Jackie (1998)       3.0
+373
+The Scorpion King (2002)    3.000000
+Hollow Man (2000)           2.976577
+Con Air (1997)              2.947883
+Shanghai Noon (2000)        2.939458
+Beach, The (2000)           2.925051
+374
+True Lies (1994)         4.000000
+Clean Slate (1994)       4.000000
+Coma (1978)              3.956283
+Young Einstein (1988)    3.919832
+Animal, The (2001)       3.919184
+375
+Who's Afraid of Virginia Woolf? (1966)                              5.000000
+Paper Chase, The (1973)                                             4.902903
+Tender Mercies (1983)                                               4.849306
+Monty Python's And Now for Something Completely Different (1971)    4.841229
+Frankenstein (1931)                                                 4.841229
+376
+William Shakespeare's A Midsummer Night's Dream (1999)    2.500000
+Red Violin, The (Violon rouge, Le) (1998)                 2.415325
+Planet of the Apes (1968)                                 2.331262
+Predator (1987)                                           2.325651
+Never Been Kissed (1999)                                  2.314550
+377
+Small Time Crooks (2000)                    0.500000
+X-Men (2000)                                0.500000
+Cloudy with a Chance of Meatballs (2009)    0.494472
+12 Years a Slave (2013)                     0.487833
+King and I, The (1956)                      0.483851
+378
+Untouchables, The (1987)     4.000000
+Doctor Dolittle (1967)       3.903600
+Cyrano de Bergerac (1990)    3.853373
+Jingle All the Way (1996)    3.853373
+Celebrity (1998)             3.834553
+379
+¡Three Amigos! (1986)               2.000000
+Everest (1998)                      1.971386
+Little Women (1994)                 1.906925
+Predator 2 (1990)                   1.866751
+Gremlins 2: The New Batch (1990)    1.865318
+380
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+381
+Arsenic and Old Lace (1944)               1.000000
+Zoolander (2001)                          1.000000
+Twilight (2008)                           0.973668
+The Hunger Games: Catching Fire (2013)    0.950832
+Fletch Lives (1989)                       0.947895
+382
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+383
+xXx (2002)                        4.500000
+Avengers: Age of Ultron (2015)    4.482107
+Bringing Down the House (2003)    4.424266
+Little Shop of Horrors (1986)     4.379057
+Jumper (2008)                     4.358075
+384
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+385
+eXistenZ (1999)                          3.000000
+Dead Zone, The (1983)                    2.904738
+Waking the Dead (2000)                   2.889260
+Open Your Eyes (Abre los ojos) (1997)    2.857738
+Manhattan Murder Mystery (1993)          2.792893
+386
+You Can't Take It with You (1938)    5.000000
+Key Largo (1948)                     4.945354
+Grapes of Wrath, The (1940)          4.846238
+Victor/Victoria (1982)               4.716403
+Godfather, The (1972)                4.682929
+387
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+388
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+389
+While You Were Sleeping (1995)        5.000000
+Legend of Bagger Vance, The (2000)    5.000000
+Jesus Christ Superstar (1973)         4.931820
+K-19: The Widowmaker (2002)           4.891399
+Sky High (2005)                       4.865618
+390
+Wolf (1994)                      1.000000
+Total Recall (1990)              0.948052
+Contact (1997)                   0.903622
+Miracle on 34th Street (1994)    0.895144
+Armageddon (1998)                0.892710
+391
+Stuart Little (1999)             3.000000
+Social Network, The (2010)       2.973943
+Dark Knight Rises, The (2012)    2.942108
+Toy Story 3 (2010)               2.926955
+One Hour Photo (2002)            2.914610
+392
+Series([], )
+393
+Zelig (1983)                  3.000000
+Godfather, The (1972)         3.000000
+Good Will Hunting (1997)      2.905424
+Saving Private Ryan (1998)    2.853312
+Incredibles, The (2004)       2.830369
+394
+Total Recall (1990)                      3.000000
+Muse, The (1999)                         3.000000
+Sgt. Bilko (1996)                        2.865328
+Invasion of the Body Snatchers (1978)    2.846050
+Wolf (1994)                              2.844156
+395
+Wolf (1994)                      3.000000
+Total Recall (1990)              2.844156
+Contact (1997)                   2.710865
+Miracle on 34th Street (1994)    2.685431
+Armageddon (1998)                2.678129
+396
+Zombieland (2009)      3.500000
+Jarhead (2005)         3.461302
+Desperado (1995)       3.453314
+The Revenant (2015)    3.446562
+Hanna (2011)           3.432578
+397
+Pinocchio (1940)                4.000000
+Young Sherlock Holmes (1985)    4.000000
+Superman II (1980)              3.850134
+Lethal Weapon 3 (1992)          3.721042
+Labyrinth (1986)                3.674235
+398
+Omega Man, The (1971)         4.0
+Usual Suspects, The (1995)    4.0
+Last Detail, The (1973)       4.0
+Shall We Dance (1937)         4.0
+General, The (1998)           4.0
+399
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+400
+Wolf (1994)                      4.000000
+Total Recall (1990)              3.792208
+Contact (1997)                   3.614487
+Miracle on 34th Street (1994)    3.580574
+Armageddon (1998)                3.570838
+401
+Zootopia (2016)                                          4.500000
+Prestige, The (2006)                                     4.304454
+Lord of the Rings: The Return of the King, The (2003)    4.158859
+Jurassic Park (1993)                                     4.124347
+Independence Day (a.k.a. ID4) (1996)                     4.123410
+402
+Series([], )
+403
+War of the Roses, The (1989)    3.000000
+Full Metal Jacket (1987)        2.896306
+Crocodile Dundee (1986)         2.838300
+City Slickers (1991)            2.625000
+Minority Report (2002)          2.465159
+404
+You've Got Mail (1998)    3.500000
+Freaky Friday (2003)      3.434961
+Shrek the Third (2007)    3.424360
+American Gigolo (1980)    3.388860
+Kate & Leopold (2001)     3.382011
+405
+Series([], )
+406
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+407
+¡Three Amigos! (1986)               2.000000
+Everest (1998)                      1.971386
+Little Women (1994)                 1.906925
+Predator 2 (1990)                   1.866751
+Gremlins 2: The New Batch (1990)    1.865318
+408
+Dead Zone, The (1983)                    4.000000
+What's Love Got to Do with It? (1993)    4.000000
+Mighty Aphrodite (1995)                  4.000000
+Manchurian Candidate, The (1962)         3.946761
+Living in Oblivion (1995)                3.889087
+409
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)    4.500000
+Angels in America (2003)                     4.331400
+Jack Reacher (2012)                          4.321537
+Black Cauldron, The (1985)                   4.290582
+My Own Private Idaho (1991)                  4.178145
+410
+Walk on the Moon, A (1999)    5.0
+411
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+412
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+413
+Honey, I Blew Up the Kid (1992)    3.000000
+Weird Science (1985)               3.000000
+Cocoon: The Return (1988)          3.000000
+Tales from the Hood (1995)         2.926996
+Real Genius (1985)                 2.914419
+414
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+415
+Wolf (1994)                      3.000000
+Total Recall (1990)              2.844156
+Contact (1997)                   2.710865
+Miracle on 34th Street (1994)    2.685431
+Armageddon (1998)                2.678129
+416
+Young Frankenstein (1974)      4.5
+Death and the Maiden (1994)    4.5
+Quills (2000)                  4.5
+Blown Away (1994)              4.5
+Hilary and Jackie (1998)       4.5
+417
+xXx (2002)                        3.500000
+Avengers: Age of Ultron (2015)    3.486083
+Bringing Down the House (2003)    3.441096
+Little Shop of Horrors (1986)     3.405933
+Jumper (2008)                     3.389614
+418
+Omega Man, The (1971)         4.0
+Usual Suspects, The (1995)    4.0
+Last Detail, The (1973)       4.0
+Shall We Dance (1937)         4.0
+General, The (1998)           4.0
+419
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+420
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+421
+X-Files: Fight the Future, The (1998)    2.000000
+Junior (1994)                            1.941853
+Pecker (1998)                            1.940443
+Serpico (1973)                           1.938691
+Lethal Weapon 3 (1992)                   1.933975
+422
+Zombieland (2009)      3.000000
+Jarhead (2005)         2.966831
+Desperado (1995)       2.959983
+The Revenant (2015)    2.954196
+Hanna (2011)           2.942210
+423
+You've Got Mail (1998)    0.500000
+Freaky Friday (2003)      0.490709
+Shrek the Third (2007)    0.489194
+American Gigolo (1980)    0.484123
+Kate & Leopold (2001)     0.483144
+424
+Who Framed Roger Rabbit? (1988)                              3.500000
+Music Man, The (1962)                                        3.430686
+Guilty as Sin (1993)                                         3.390877
+Invasion of the Body Snatchers (1978)                        3.390877
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    3.360807
+425
+Series([], )
+426
+Your Friends and Neighbors (1998)                                                 4.000000
+Straight Story, The (1999)                                                        3.470110
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)    3.086975
+Fight Club (1999)                                                                 2.993821
+All About My Mother (Todo sobre mi madre) (1999)                                  2.666667
+427
+Series([], )
+428
+Velvet Goldmine (1998)    2.5
+429
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+430
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+431
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+432
+Zombieland (2009)      3.000000
+Jarhead (2005)         2.966831
+Desperado (1995)       2.959983
+The Revenant (2015)    2.954196
+Hanna (2011)           2.942210
+433
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+434
+Wallace & Gromit: The Best of Aardman Animation (1996)    5.000000
+Creature Comforts (1989)                                  5.000000
+Patton (1970)                                             4.941059
+Rosencrantz and Guildenstern Are Dead (1990)              4.914361
+Roxanne (1987)                                            4.901578
+435
+Wizard of Oz, The (1939)     3.000000
+Indochine (1992)             3.000000
+Lord of the Flies (1990)     3.000000
+Picture Perfect (1997)       3.000000
+Jackass: The Movie (2002)    2.915053
+436
+Waterworld (1995)                    1.000000
+Medicine Man (1992)                  1.000000
+Up in the Air (2009)                 1.000000
+Andromeda Strain, The (1971)         0.987318
+Mad Max Beyond Thunderdome (1985)    0.983135
+437
+Zootopia (2016)                                          4.000000
+Prestige, The (2006)                                     3.826181
+Lord of the Rings: The Return of the King, The (2003)    3.696764
+Jurassic Park (1993)                                     3.666087
+Independence Day (a.k.a. ID4) (1996)                     3.665254
+438
+Small Time Crooks (2000)                    1.000000
+X-Men (2000)                                1.000000
+Cloudy with a Chance of Meatballs (2009)    0.988944
+12 Years a Slave (2013)                     0.975665
+King and I, The (1956)                      0.967701
+439
+Omega Man, The (1971)         4.0
+Usual Suspects, The (1995)    4.0
+Last Detail, The (1973)       4.0
+Shall We Dance (1937)         4.0
+General, The (1998)           4.0
+440
+Who Framed Roger Rabbit? (1988)                              3.500000
+Music Man, The (1962)                                        3.430686
+Guilty as Sin (1993)                                         3.390877
+Invasion of the Body Snatchers (1978)                        3.390877
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    3.360807
+441
+Arsenic and Old Lace (1944)               3.500000
+Zoolander (2001)                          3.500000
+Twilight (2008)                           3.407837
+The Hunger Games: Catching Fire (2013)    3.327911
+Fletch Lives (1989)                       3.317631
+442
+Wolf of Wall Street, The (2013)                5.000000
+Starsky & Hutch (2004)                         4.962931
+Wallace & Gromit: The Wrong Trousers (1993)    4.834938
+Risky Business (1983)                          4.822428
+Caddyshack (1980)                              4.822428
+443
+William Shakespeare's A Midsummer Night's Dream (1999)    3.000000
+Red Violin, The (Violon rouge, Le) (1998)                 2.898390
+Planet of the Apes (1968)                                 2.797514
+Predator (1987)                                           2.790782
+Never Been Kissed (1999)                                  2.777460
+444
+Vertical Limit (2000)                  2.500000
+Usual Suspects, The (1995)             2.439164
+Hunchback of Notre Dame, The (1996)    2.405636
+G.I. Jane (1997)                       2.399943
+Beauty and the Beast (1991)            2.387276
+445
+Sicario (2015)                  4.500000
+X2: X-Men United (2003)         4.500000
+Wreck-It Ralph (2012)           4.377981
+40 Days and 40 Nights (2002)    4.243175
+Zero Dark Thirty (2012)         4.238561
+446
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+447
+Toy Story (1995)             3.000000
+Muppets From Space (1999)    2.951216
+This Boy's Life (1993)       2.945942
+Education, An (2009)         2.883446
+Pillow Book, The (1996)      2.850787
+448
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)    4.000000
+Angels in America (2003)                     3.850134
+Jack Reacher (2012)                          3.841367
+Black Cauldron, The (1985)                   3.813850
+My Own Private Idaho (1991)                  3.713907
+449
+Small Time Crooks (2000)                    0.500000
+X-Men (2000)                                0.500000
+Cloudy with a Chance of Meatballs (2009)    0.494472
+12 Years a Slave (2013)                     0.487833
+King and I, The (1956)                      0.483851
+450
+12 Angry Men (1957)                                                                            1.0
+Tron (1982)                                                                                    1.0
+Clerks (1994)                                                                                  1.0
+Clueless (1995)                                                                                1.0
+Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988)    1.0
+451
+¡Three Amigos! (1986)               2.000000
+Everest (1998)                      1.971386
+Little Women (1994)                 1.906925
+Predator 2 (1990)                   1.866751
+Gremlins 2: The New Batch (1990)    1.865318
+452
+Small Time Crooks (2000)                    5.000000
+X-Men (2000)                                5.000000
+Cloudy with a Chance of Meatballs (2009)    4.944718
+12 Years a Slave (2013)                     4.878327
+King and I, The (1956)                      4.838507
+453
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+454
+X-Files: Fight the Future, The (1998)    3.500000
+Junior (1994)                            3.398243
+Pecker (1998)                            3.395775
+Serpico (1973)                           3.392709
+Lethal Weapon 3 (1992)                   3.384456
+455
+Series([], )
+456
+¡Three Amigos! (1986)               1.500000
+Everest (1998)                      1.478540
+Little Women (1994)                 1.430194
+Predator 2 (1990)                   1.400063
+Gremlins 2: The New Batch (1990)    1.398989
+457
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+458
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+459
+xXx (2002)                        4.500000
+Avengers: Age of Ultron (2015)    4.482107
+Bringing Down the House (2003)    4.424266
+Little Shop of Horrors (1986)     4.379057
+Jumper (2008)                     4.358075
+460
+Arsenic and Old Lace (1944)               2.000000
+Zoolander (2001)                          2.000000
+Twilight (2008)                           1.947335
+The Hunger Games: Catching Fire (2013)    1.901663
+Fletch Lives (1989)                       1.895789
+461
+Wayne's World (1992)                         4.000000
+Man for All Seasons, A (1966)                3.896999
+Police Academy 6: City Under Siege (1989)    3.820391
+Michael Clayton (2007)                       3.801311
+Teaching Mrs. Tingle (1999)                  3.721042
+462
+Cyrano de Bergerac (1990)             4.000000
+Young Guns (1988)                     4.000000
+Wedding Crashers (2005)               3.921262
+Dracula: Dead and Loving It (1995)    3.889087
+Phone Booth (2002)                    3.875982
+463
+While You Were Sleeping (1995)        5.000000
+Legend of Bagger Vance, The (2000)    5.000000
+Jesus Christ Superstar (1973)         4.931820
+K-19: The Widowmaker (2002)           4.891399
+Sky High (2005)                       4.865618
+464
+Welcome to the Dollhouse (1995)       3.000000
+Road to Wellville, The (1994)         2.906466
+Sabrina (1954)                        2.778931
+Once Upon a Time in America (1984)    2.766417
+Ransom (1996)                         2.766231
+465
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+466
+Your Friends and Neighbors (1998)                                                 2.000000
+Straight Story, The (1999)                                                        1.735055
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)    1.543487
+Fight Club (1999)                                                                 1.496910
+All About My Mother (Todo sobre mi madre) (1999)                                  1.333333
+467
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+468
+West Side Story (1961)                       5.000000
+Red Violin, The (Violon rouge, Le) (1998)    4.821429
+Planet of the Apes (2001)                    4.791864
+Monster (2003)                               4.771568
+Rush Hour 2 (2001)                           4.753993
+469
+Series([], )
+470
+eXistenZ (1999)                          1.000000
+Dead Zone, The (1983)                    0.968246
+Waking the Dead (2000)                   0.963087
+Open Your Eyes (Abre los ojos) (1997)    0.952579
+Manhattan Murder Mystery (1993)          0.930964
+471
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+472
+You Don't Mess with the Zohan (2008)    2.000000
+Mission: Impossible II (2000)           1.961570
+Hancock (2008)                          1.934495
+The Devil's Advocate (1997)             1.926174
+Taken (2008)                            1.908980
+473
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+474
+Series([], )
+475
+eXistenZ (1999)                          3.000000
+Dead Zone, The (1983)                    2.904738
+Waking the Dead (2000)                   2.889260
+Open Your Eyes (Abre los ojos) (1997)    2.857738
+Manhattan Murder Mystery (1993)          2.792893
+476
+Tomorrow Never Dies (1997)          4.000000
+Adventures in Babysitting (1987)    3.894681
+Charlotte's Web (1973)              3.844866
+Nell (1994)                         3.844616
+Deliverance (1972)                  3.805212
+477
+Series([], )
+478
+X-Men: First Class (2011)    4.000000
+Blow (2001)                  3.947733
+Aviator, The (2004)          3.942110
+Dead Poets Society (1989)    3.935616
+Hugo (2011)                  3.930788
+479
+Zombieland (2009)      4.000000
+Jarhead (2005)         3.955774
+Desperado (1995)       3.946645
+The Revenant (2015)    3.938928
+Hanna (2011)           3.922946
+480
+Series([], )
+481
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+482
+Zombieland (2009)      3.500000
+Jarhead (2005)         3.461302
+Desperado (1995)       3.453314
+The Revenant (2015)    3.446562
+Hanna (2011)           3.432578
+483
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+484
+Shall We Dance (1937)          4.500000
+Clash of the Titans (1981)     4.500000
+Sting, The (1973)              4.500000
+Cyrano de Bergerac (1990)      4.500000
+Incredible Hulk, The (2008)    4.403214
+485
+Arsenic and Old Lace (1944)               5.000000
+Zoolander (2001)                          5.000000
+Twilight (2008)                           4.868338
+The Hunger Games: Catching Fire (2013)    4.754158
+Fletch Lives (1989)                       4.739473
+486
+With Honors (1994)                       4.000000
+Only You (1994)                          4.000000
+Ever After: A Cinderella Story (1998)    4.000000
+Mickey Blue Eyes (1999)                  3.819144
+She's All That (1999)                    3.810317
+487
+Wrestler, The (2008)                                   4.500000
+Captain America: The First Avenger (2011)              4.471209
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)          4.440288
+Lives of Others, The (Das leben der Anderen) (2006)    4.405555
+Hotel Rwanda (2004)                                    4.396411
+488
+Who Framed Roger Rabbit? (1988)                              3.000000
+Music Man, The (1962)                                        2.940588
+Guilty as Sin (1993)                                         2.906466
+Invasion of the Body Snatchers (1978)                        2.906466
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    2.880692
+489
+Willy Wonka & the Chocolate Factory (1971)    1.000000
+Day of the Jackal, The (1973)                 1.000000
+Celebrity (1998)                              1.000000
+Great Santini, The (1979)                     1.000000
+Kicking and Screaming (1995)                  0.989827
+490
+Who Framed Roger Rabbit? (1988)                              4.000000
+Music Man, The (1962)                                        3.920784
+Guilty as Sin (1993)                                         3.875288
+Invasion of the Body Snatchers (1978)                        3.875288
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    3.840923
+491
+Withnail & I (1987)            2.000000
+Pulp Fiction (1994)            1.928099
+Apocalypse Now (1979)          1.767767
+Amadeus (1984)                 1.315587
+English Patient, The (1996)    1.253837
+492
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+493
+Windtalkers (2002)                           3.000000
+Lethal Weapon (1987)                         2.790782
+Indiana Jones and the Last Crusade (1989)    2.724325
+Independence Day (a.k.a. ID4) (1996)         2.628691
+Italian Job, The (2003)                      2.607145
+494
+Waterworld (1995)                    4.000000
+Medicine Man (1992)                  4.000000
+Up in the Air (2009)                 4.000000
+Andromeda Strain, The (1971)         3.949273
+Mad Max Beyond Thunderdome (1985)    3.932542
+495
+Wyatt Earp (1994)         4.000000
+Heat (1995)               4.000000
+Platoon (1986)            3.777618
+Demolition Man (1993)     3.763863
+American Beauty (1999)    3.585686
+496
+12 Angry Men (1957)                                                                            2.0
+Tron (1982)                                                                                    2.0
+Clerks (1994)                                                                                  2.0
+Clueless (1995)                                                                                2.0
+Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988)    2.0
+497
+Titanic (1997)          0.500000
+Billy Jack (1971)       0.496573
+Auto Focus (2002)       0.488401
+Catfish (2010)          0.487950
+Proposal, The (2009)    0.485071
+498
+Vertigo (1958)                                          5.000000
+Trip to the Moon, A (Voyage dans la lune, Le) (1902)    4.884399
+On Her Majesty's Secret Service (1969)                  4.875084
+All That Jazz (1979)                                    4.861359
+Brokeback Mountain (2005)                               4.841229
+499
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+500
+Zelig (1983)                  4.000000
+Godfather, The (1972)         4.000000
+Good Will Hunting (1997)      3.873899
+Saving Private Ryan (1998)    3.804416
+Incredibles, The (2004)       3.773825
+501
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+502
+Wreck-It Ralph (2012)                                               4.000000
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001)    3.924809
+X2: X-Men United (2003)                                             3.891539
+The Man from U.N.C.L.E. (2015)                                      3.852347
+Dark Knight Rises, The (2012)                                       3.844001
+503
+X-Files: Fight the Future, The (1998)    2.000000
+Junior (1994)                            1.941853
+Pecker (1998)                            1.940443
+Serpico (1973)                           1.938691
+Lethal Weapon 3 (1992)                   1.933975
+504
+Zelig (1983)                  3.500000
+Godfather, The (1972)         3.500000
+Good Will Hunting (1997)      3.389661
+Saving Private Ryan (1998)    3.328864
+Incredibles, The (2004)       3.302097
+505
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+506
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+507
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+508
+¡Three Amigos! (1986)               2.000000
+Everest (1998)                      1.971386
+Little Women (1994)                 1.906925
+Predator 2 (1990)                   1.866751
+Gremlins 2: The New Batch (1990)    1.865318
+509
+Jerk, The (1979)                                 2.000000
+Year of Living Dangerously, The (1982)           2.000000
+Arthur (1981)                                    1.956559
+National Lampoon's Vacation (1983)               1.946247
+Star Trek VI: The Undiscovered Country (1991)    1.936492
+510
+U.S. Marshals (1998)                  4.000000
+Bottle Rocket (1996)                  4.000000
+What's Eating Gilbert Grape (1993)    4.000000
+Devil's Own, The (1997)               3.857143
+Thunderball (1965)                    3.815836
+511
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+512
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+513
+Young Poisoner's Handbook, The (1995)                          4.000000
+Paradise Lost: The Child Murders at Robin Hood Hills (1996)    3.391784
+Pulp Fiction (1994)                                            1.973855
+Delicatessen (1991)                                            1.118034
+Fargo (1996)                                                   1.000000
+514
+William Shakespeare's A Midsummer Night's Dream (1999)    2.000000
+Red Violin, The (Violon rouge, Le) (1998)                 1.932260
+Planet of the Apes (1968)                                 1.865010
+Predator (1987)                                           1.860521
+Never Been Kissed (1999)                                  1.851640
+515
+Wolf (1994)                      4.000000
+Total Recall (1990)              3.792208
+Contact (1997)                   3.614487
+Miracle on 34th Street (1994)    3.580574
+Armageddon (1998)                3.570838
+516
+Waterworld (1995)                    5.000000
+Medicine Man (1992)                  5.000000
+Up in the Air (2009)                 5.000000
+Andromeda Strain, The (1971)         4.936592
+Mad Max Beyond Thunderdome (1985)    4.915677
+517
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+518
+Zombieland (2009)      4.000000
+Jarhead (2005)         3.955774
+Desperado (1995)       3.946645
+The Revenant (2015)    3.938928
+Hanna (2011)           3.922946
+519
+Arsenic and Old Lace (1944)               3.000000
+Zoolander (2001)                          3.000000
+Twilight (2008)                           2.921003
+The Hunger Games: Catching Fire (2013)    2.852495
+Fletch Lives (1989)                       2.843684
+520
+X-Files: Fight the Future, The (1998)    3.000000
+Junior (1994)                            2.912779
+Pecker (1998)                            2.910665
+Serpico (1973)                           2.908036
+Lethal Weapon 3 (1992)                   2.900963
+521
+xXx (2002)                        2.500000
+Avengers: Age of Ultron (2015)    2.490060
+Bringing Down the House (2003)    2.457925
+Little Shop of Horrors (1986)     2.432809
+Jumper (2008)                     2.421153
+522
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+523
+Small Time Crooks (2000)                    3.000000
+X-Men (2000)                                3.000000
+Cloudy with a Chance of Meatballs (2009)    2.966831
+12 Years a Slave (2013)                     2.926996
+King and I, The (1956)                      2.903104
+524
+Small Time Crooks (2000)                    5.000000
+X-Men (2000)                                5.000000
+Cloudy with a Chance of Meatballs (2009)    4.944718
+12 Years a Slave (2013)                     4.878327
+King and I, The (1956)                      4.838507
+525
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+526
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+527
+Zero Effect (1998)            3.500000
+Maltese Falcon, The (1941)    3.500000
+Network (1976)                3.217008
+Parenthood (1989)             3.214955
+Goonies, The (1985)           3.195048
+528
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+529
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+530
+You've Got Mail (1998)    2.500000
+Freaky Friday (2003)      2.453543
+Shrek the Third (2007)    2.445971
+American Gigolo (1980)    2.420615
+Kate & Leopold (2001)     2.415722
+531
+Vanilla Sky (2001)        2.500000
+Hamlet (1996)             2.485661
+This Is the End (2013)    2.468455
+Third Man, The (1949)     2.465292
+The Lego Movie (2014)     2.463627
+532
+Small Time Crooks (2000)                    5.000000
+X-Men (2000)                                5.000000
+Cloudy with a Chance of Meatballs (2009)    4.944718
+12 Years a Slave (2013)                     4.878327
+King and I, The (1956)                      4.838507
+533
+Young Guns II (1990)                                3.000000
+Police Academy 6: City Under Siege (1989)           2.889260
+U Turn (1997)                                       2.825226
+Gattaca (1997)                                      2.764252
+Police Academy 5: Assignment: Miami Beach (1988)    2.734396
+534
+Waterworld (1995)                    4.000000
+Medicine Man (1992)                  4.000000
+Up in the Air (2009)                 4.000000
+Andromeda Strain, The (1971)         3.949273
+Mad Max Beyond Thunderdome (1985)    3.932542
+535
+Widows' Peak (1994)                  5.000000
+Get Shorty (1995)                    4.364358
+Pretty Woman (1990)                  4.342995
+Dolores Claiborne (1995)             4.225771
+Ace Ventura: Pet Detective (1994)    4.225771
+536
+Young Frankenstein (1974)      4.0
+Death and the Maiden (1994)    4.0
+Quills (2000)                  4.0
+Blown Away (1994)              4.0
+Hilary and Jackie (1998)       4.0
+537
+Waterworld (1995)                    3.000000
+Medicine Man (1992)                  3.000000
+Up in the Air (2009)                 3.000000
+Andromeda Strain, The (1971)         2.961955
+Mad Max Beyond Thunderdome (1985)    2.949406
+538
+Black Cauldron, The (1985)        3.000000
+When Harry Met Sally... (1989)    3.000000
+Night at the Roxbury, A (1998)    2.985316
+Gone Girl (2014)                  2.877129
+Sweet Smell of Success (1957)     2.854986
+539
+Series([], )
+540
+Trading Places (1983)      4.000000
+Snatch (2000)              4.000000
+Trekkies (1997)            4.000000
+Harold and Maude (1971)    3.885143
+Stripes (1981)             3.867950
+541
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+542
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+543
+Zodiac (2007)             4.500000
+American Sniper (2014)    4.437526
+Wonder Boys (2000)        4.357106
+Peter Pan (1953)          4.282802
+Robin Hood (1973)         4.282802
+544
+Working Girl (1988)             4.000000
+Bringing Out the Dead (1999)    3.872983
+About Schmidt (2002)            3.782443
+Training Day (2001)             3.740548
+All That Jazz (1979)            3.676533
+545
+Arsenic and Old Lace (1944)               5.000000
+Zoolander (2001)                          5.000000
+Twilight (2008)                           4.868338
+The Hunger Games: Catching Fire (2013)    4.754158
+Fletch Lives (1989)                       4.739473
+546
+eXistenZ (1999)                          2.000000
+Dead Zone, The (1983)                    1.936492
+Waking the Dead (2000)                   1.926174
+Open Your Eyes (Abre los ojos) (1997)    1.905159
+Manhattan Murder Mystery (1993)          1.861929
+547
+Wyatt Earp (1994)         3.000000
+Heat (1995)               3.000000
+Platoon (1986)            2.833214
+Demolition Man (1993)     2.822897
+American Beauty (1999)    2.689264
+548
+What Lies Beneath (2000)        2.000000
+Elf (2003)                      1.952442
+Beverly Hills Cop III (1994)    1.947697
+Jurassic Park III (2001)        1.945113
+Short Cuts (1993)               1.936492
+549
+World Is Not Enough, The (1999)     2.000000
+Resident Evil: Apocalypse (2004)    1.948122
+Joy Luck Club, The (1993)           1.940096
+Rainmaker, The (1997)               1.936492
+Sex, Lies, and Videotape (1989)     1.935742
+550
+Series([], )
+551
+Series([], )
+552
+Zombieland (2009)      5.000000
+Jarhead (2005)         4.944718
+Desperado (1995)       4.933306
+The Revenant (2015)    4.923660
+Hanna (2011)           4.903683
+553
+Verdict, The (1982)                                       4.000000
+101 Dalmatians (One Hundred and One Dalmatians) (1961)    4.000000
+Magnolia (1999)                                           4.000000
+Bronx Tale, A (1993)                                      3.913119
+Face/Off (1997)                                           3.850134
+554
+U.S. Marshals (1998)                  2.000000
+Bottle Rocket (1996)                  2.000000
+What's Eating Gilbert Grape (1993)    2.000000
+Devil's Own, The (1997)               1.928571
+Thunderball (1965)                    1.907918
+555
+Waterworld (1995)                    4.000000
+Medicine Man (1992)                  4.000000
+Up in the Air (2009)                 4.000000
+Andromeda Strain, The (1971)         3.949273
+Mad Max Beyond Thunderdome (1985)    3.932542
+556
+Stepford Wives, The (1975)         4.000000
+Poltergeist (1982)                 4.000000
+My Best Friend's Wedding (1997)    3.828825
+Misery (1990)                      3.794733
+Leaving Las Vegas (1995)           3.751832
+557
+You Can Count on Me (2000)    5.000000
+Midnight Express (1978)       4.364358
+Jacob's Ladder (1990)         4.303315
+Clockwork Orange, A (1971)    4.116709
+Chasing Amy (1997)            4.103473
+558
+You've Got Mail (1998)    4.000000
+Freaky Friday (2003)      3.925670
+Shrek the Third (2007)    3.913554
+American Gigolo (1980)    3.872983
+Kate & Leopold (2001)     3.865156
+559
+Small Time Crooks (2000)                    3.500000
+X-Men (2000)                                3.500000
+Cloudy with a Chance of Meatballs (2009)    3.461302
+12 Years a Slave (2013)                     3.414829
+King and I, The (1956)                      3.386955
+560
+Young Frankenstein (1974)      4.5
+Death and the Maiden (1994)    4.5
+Quills (2000)                  4.5
+Blown Away (1994)              4.5
+Hilary and Jackie (1998)       4.5
+561
+Sicario (2015)                  4.500000
+X2: X-Men United (2003)         4.500000
+Wreck-It Ralph (2012)           4.377981
+40 Days and 40 Nights (2002)    4.243175
+Zero Dark Thirty (2012)         4.238561
+562
+Zombieland (2009)      4.500000
+Jarhead (2005)         4.450246
+Desperado (1995)       4.439975
+The Revenant (2015)    4.431294
+Hanna (2011)           4.413315
+563
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+564
+U.S. Marshals (1998)                  2.000000
+Bottle Rocket (1996)                  2.000000
+What's Eating Gilbert Grape (1993)    2.000000
+Devil's Own, The (1997)               1.928571
+Thunderball (1965)                    1.907918
+565
+Underworld (2003)                        5.000000
+Kingdom of Heaven (2005)                 5.000000
+Django Unchained (2012)                  4.929198
+Jackie Brown (1997)                      4.921635
+Dr. Horrible's Sing-Along Blog (2008)    4.917076
+566
+V for Vendetta (2006)                                                         4.500000
+March of the Penguins (Marche de l'empereur, La) (2005)                       4.413315
+Pretty in Pink (1986)                                                         4.396538
+Cop Out (2010)                                                                4.365641
+Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)    4.359699
+567
+Twister (1996)                4.000000
+Citizen Ruth (1996)           3.913119
+When We Were Kings (1996)     3.903600
+Joy Luck Club, The (1993)     3.902220
+Out-of-Towners, The (1999)    3.892495
+568
+Young Frankenstein (1974)      1.0
+Death and the Maiden (1994)    1.0
+Quills (2000)                  1.0
+Blown Away (1994)              1.0
+Hilary and Jackie (1998)       1.0
+569
+Sicario (2015)                  2.500000
+X2: X-Men United (2003)         2.500000
+Wreck-It Ralph (2012)           2.432212
+40 Days and 40 Nights (2002)    2.357320
+Zero Dark Thirty (2012)         2.354756
+570
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)    4.500000
+Angels in America (2003)                     4.331400
+Jack Reacher (2012)                          4.321537
+Black Cauldron, The (1985)                   4.290582
+My Own Private Idaho (1991)                  4.178145
+571
+xXx (2002)                        3.500000
+Avengers: Age of Ultron (2015)    3.486083
+Bringing Down the House (2003)    3.441096
+Little Shop of Horrors (1986)     3.405933
+Jumper (2008)                     3.389614
+572
+Who Framed Roger Rabbit? (1988)                              4.000000
+Music Man, The (1962)                                        3.920784
+Guilty as Sin (1993)                                         3.875288
+Invasion of the Body Snatchers (1978)                        3.875288
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    3.840923
+573
+xXx (2002)                        3.000000
+Avengers: Age of Ultron (2015)    2.988072
+Bringing Down the House (2003)    2.949511
+Little Shop of Horrors (1986)     2.919371
+Jumper (2008)                     2.905383
+574
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+575
+Once Were Warriors (1994)    2.000000
+Traffic (2000)               2.000000
+Misérables, Les (1998)       1.963883
+Hairspray (1988)             1.916745
+Spotlight (2015)             1.910144
+576
+Cyrano de Bergerac (1990)             4.000000
+Young Guns (1988)                     4.000000
+Wedding Crashers (2005)               3.921262
+Dracula: Dead and Loving It (1995)    3.889087
+Phone Booth (2002)                    3.875982
+577
+When a Man Loves a Woman (1994)    2.500000
+King and I, The (1956)             2.500000
+Perfect Storm, The (2000)          2.428682
+American History X (1998)          2.420615
+Sex, Lies, and Videotape (1989)    2.397963
+578
+Willow (1988)                 0.500000
+Straight Story, The (1999)    0.500000
+Volcano (1997)                0.474252
+Persuasion (1995)             0.473502
+Grand Canyon (1991)           0.465776
+579
+¡Three Amigos! (1986)               3.500000
+Everest (1998)                      3.449926
+Little Women (1994)                 3.337119
+Predator 2 (1990)                   3.266815
+Gremlins 2: The New Batch (1990)    3.264307
+580
+¡Three Amigos! (1986)               3.500000
+Everest (1998)                      3.449926
+Little Women (1994)                 3.337119
+Predator 2 (1990)                   3.266815
+Gremlins 2: The New Batch (1990)    3.264307
+581
+Tender Mercies (1983)                                               2.000000
+Yellow Submarine (1968)                                             2.000000
+Cheech and Chong's Up in Smoke (1978)                               1.956559
+Charlie's Angels (2000)                                             1.906925
+Monty Python's And Now for Something Completely Different (1971)    1.905159
+582
+Whiplash (2014)                          4.000000
+Aviator, The (2004)                      3.926692
+Yes Man (2008)                           3.852347
+Side Effects (2013)                      3.805728
+Dr. Horrible's Sing-Along Blog (2008)    3.804193
+583
+Small Time Crooks (2000)                    3.500000
+X-Men (2000)                                3.500000
+Cloudy with a Chance of Meatballs (2009)    3.461302
+12 Years a Slave (2013)                     3.414829
+King and I, The (1956)                      3.386955
+584
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+585
+Toy Story (1995)             4.000000
+Muppets From Space (1999)    3.934955
+This Boy's Life (1993)       3.927922
+Education, An (2009)         3.844595
+Pillow Book, The (1996)      3.801049
+586
+You Can Count on Me (2000)    4.500000
+Midnight Express (1978)       3.927922
+Jacob's Ladder (1990)         3.872983
+Clockwork Orange, A (1971)    3.705039
+Chasing Amy (1997)            3.693125
+587
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+588
+Wyatt Earp (1994)         3.000000
+Heat (1995)               3.000000
+Platoon (1986)            2.833214
+Demolition Man (1993)     2.822897
+American Beauty (1999)    2.689264
+589
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+590
+Willy Wonka & the Chocolate Factory (1971)    1.50000
+Day of the Jackal, The (1973)                 1.50000
+Celebrity (1998)                              1.50000
+Great Santini, The (1979)                     1.50000
+Kicking and Screaming (1995)                  1.48474
+591
+World Is Not Enough, The (1999)     5.000000
+Resident Evil: Apocalypse (2004)    4.870306
+Joy Luck Club, The (1993)           4.850239
+Rainmaker, The (1997)               4.841229
+Sex, Lies, and Videotape (1989)     4.839355
+592
+Wolf (1994)                      4.000000
+Total Recall (1990)              3.792208
+Contact (1997)                   3.614487
+Miracle on 34th Street (1994)    3.580574
+Armageddon (1998)                3.570838
+593
+X-Files: Fight the Future, The (1998)    4.000000
+Junior (1994)                            3.883706
+Pecker (1998)                            3.880886
+Serpico (1973)                           3.877382
+Lethal Weapon 3 (1992)                   3.867950
+594
+Small Time Crooks (2000)                    2.000000
+X-Men (2000)                                2.000000
+Cloudy with a Chance of Meatballs (2009)    1.977887
+12 Years a Slave (2013)                     1.951331
+King and I, The (1956)                      1.935403
+595
+xXx (2002)                        1.500000
+Avengers: Age of Ultron (2015)    1.494036
+Bringing Down the House (2003)    1.474755
+Little Shop of Horrors (1986)     1.459686
+Jumper (2008)                     1.452692
+596
+Zero Effect (1998)            5.000000
+Maltese Falcon, The (1941)    5.000000
+Network (1976)                4.595725
+Parenthood (1989)             4.592793
+Goonies, The (1985)           4.564355
+597
+Arsenic and Old Lace (1944)               2.000000
+Zoolander (2001)                          2.000000
+Twilight (2008)                           1.947335
+The Hunger Games: Catching Fire (2013)    1.901663
+Fletch Lives (1989)                       1.895789
+598
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+599
+Wreck-It Ralph (2012)                                               4.000000
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001)    3.924809
+X2: X-Men United (2003)                                             3.891539
+The Man from U.N.C.L.E. (2015)                                      3.852347
+Dark Knight Rises, The (2012)                                       3.844001
+600
+V for Vendetta (2006)                                                         3.500000
+March of the Penguins (Marche de l'empereur, La) (2005)                       3.432578
+Pretty in Pink (1986)                                                         3.419529
+Cop Out (2010)                                                                3.395499
+Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)    3.390877
+601
+Wolf (1994)                      2.000000
+Total Recall (1990)              1.896104
+Contact (1997)                   1.807243
+Miracle on 34th Street (1994)    1.790287
+Armageddon (1998)                1.785419
+602
+Young Frankenstein (1974)      5.0
+Death and the Maiden (1994)    5.0
+Quills (2000)                  5.0
+Blown Away (1994)              5.0
+Hilary and Jackie (1998)       5.0
+603
+Willow (1988)                 1.000000
+Straight Story, The (1999)    1.000000
+Volcano (1997)                0.948505
+Persuasion (1995)             0.947004
+Grand Canyon (1991)           0.931552
+604
+Small Time Crooks (2000)                    2.000000
+X-Men (2000)                                2.000000
+Cloudy with a Chance of Meatballs (2009)    1.977887
+12 Years a Slave (2013)                     1.951331
+King and I, The (1956)                      1.935403
+605
+French Connection, The (1971)                                        4.000000
+Wayne's World 2 (1993)                                               4.000000
+Christmas Vacation (National Lampoon's Christmas Vacation) (1989)    3.919832
+Excalibur (1981)                                                     3.822808
+Godzilla (1998)                                                      3.815836
+606
+xXx (2002)                        2.500000
+Avengers: Age of Ultron (2015)    2.490060
+Bringing Down the House (2003)    2.457925
+Little Shop of Horrors (1986)     2.432809
+Jumper (2008)                     2.421153
+607
+eXistenZ (1999)                          4.000000
+Dead Zone, The (1983)                    3.872983
+Waking the Dead (2000)                   3.852347
+Open Your Eyes (Abre los ojos) (1997)    3.810317
+Manhattan Murder Mystery (1993)          3.723858
+608
+Young Poisoner's Handbook, The (1995)                          1.000000
+Paradise Lost: The Child Murders at Robin Hood Hills (1996)    0.847946
+Pulp Fiction (1994)                                            0.493464
+Delicatessen (1991)                                            0.279508
+Fargo (1996)                                                   0.250000
+609
+Zombieland (2009)      3.500000
+Jarhead (2005)         3.461302
+Desperado (1995)       3.453314
+The Revenant (2015)    3.446562
+Hanna (2011)           3.432578
+610
+Series([], )
+611
+Zack and Miri Make a Porno (2008)    2.500000
+Bad Boys (1995)                      2.386225
+GoldenEye (1995)                     2.383656
+Addams Family Values (1993)          2.383656
+Adaptation (2002)                    2.358106
+612
+Sicario (2015)                  4.000000
+X2: X-Men United (2003)         4.000000
+Wreck-It Ralph (2012)           3.891539
+40 Days and 40 Nights (2002)    3.771711
+Zero Dark Thirty (2012)         3.767610
+613
+Your Friends and Neighbors (1998)                                                 5.000000
+Straight Story, The (1999)                                                        4.337638
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)    3.858718
+Fight Club (1999)                                                                 3.742276
+All About My Mother (Todo sobre mi madre) (1999)                                  3.333333
+614
+Zootopia (2016)                                          5.000000
+Prestige, The (2006)                                     4.782726
+Lord of the Rings: The Return of the King, The (2003)    4.620955
+Jurassic Park (1993)                                     4.582608
+Independence Day (a.k.a. ID4) (1996)                     4.581567
+615
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+616
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
+617
+Village of the Damned (1960)    5.000000
+Blade Runner (1982)             2.041241
+618
+U.S. Marshals (1998)                  5.000000
+Bottle Rocket (1996)                  5.000000
+What's Eating Gilbert Grape (1993)    5.000000
+Devil's Own, The (1997)               4.821429
+Thunderball (1965)                    4.769795
+619
+Series([], )
+620
+¡Three Amigos! (1986)               3.500000
+Everest (1998)                      3.449926
+Little Women (1994)                 3.337119
+Predator 2 (1990)                   3.266815
+Gremlins 2: The New Batch (1990)    3.264307
+621
+V for Vendetta (2006)                                                         5.000000
+March of the Penguins (Marche de l'empereur, La) (2005)                       4.903683
+Pretty in Pink (1986)                                                         4.885042
+Cop Out (2010)                                                                4.850713
+Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)    4.844110
+622
+Arsenic and Old Lace (1944)               4.500000
+Zoolander (2001)                          4.500000
+Twilight (2008)                           4.381504
+The Hunger Games: Catching Fire (2013)    4.278743
+Fletch Lives (1989)                       4.265526
+623
+¡Three Amigos! (1986)               3.000000
+Everest (1998)                      2.957079
+Little Women (1994)                 2.860388
+Predator 2 (1990)                   2.800127
+Gremlins 2: The New Batch (1990)    2.797977
+624
+Arsenic and Old Lace (1944)               1.500000
+Zoolander (2001)                          1.500000
+Twilight (2008)                           1.460501
+The Hunger Games: Catching Fire (2013)    1.426248
+Fletch Lives (1989)                       1.421842
+625
+eXistenZ (1999)                          2.000000
+Dead Zone, The (1983)                    1.936492
+Waking the Dead (2000)                   1.926174
+Open Your Eyes (Abre los ojos) (1997)    1.905159
+Manhattan Murder Mystery (1993)          1.861929
+626
+While You Were Sleeping (1995)        2.500000
+Legend of Bagger Vance, The (2000)    2.500000
+Jesus Christ Superstar (1973)         2.465910
+K-19: The Widowmaker (2002)           2.445699
+Sky High (2005)                       2.432809
+627
+Wallace & Gromit: The Wrong Trousers (1993)    2.500000
+Sexy Beast (2000)                              2.500000
+Holiday Inn (1942)                             2.500000
+Jean de Florette (1986)                        2.470529
+Joe Versus the Volcano (1990)                  2.457449
+628
+Wyatt Earp (1994)         3.000000
+Heat (1995)               3.000000
+Platoon (1986)            2.833214
+Demolition Man (1993)     2.822897
+American Beauty (1999)    2.689264
+629
+Toy Story (1995)             4.000000
+Muppets From Space (1999)    3.934955
+This Boy's Life (1993)       3.927922
+Education, An (2009)         3.844595
+Pillow Book, The (1996)      3.801049
+630
+Volcano (1997)                         2.000000
+Medicine Man (1992)                    2.000000
+Hunchback of Notre Dame, The (1996)    1.926687
+Home Alone 3 (1997)                    1.920286
+Jingle All the Way (1996)              1.915361
+631
+Vegas Vacation (National Lampoon's Las Vegas Vacation) (1997)    4.000000
+Cable Guy, The (1996)                                            3.854135
+Airplane II: The Sequel (1982)                                   3.838421
+Godfather: Part III, The (1990)                                  3.807269
+Batman & Robin (1997)                                            3.803464
+632
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+633
+Thin Red Line, The (1998)                     4.000000
+Serendipity (2001)                            3.924092
+Star Trek III: The Search for Spock (1984)    3.850134
+Menace II Society (1993)                      3.758972
+Mosquito Coast, The (1986)                    3.653064
+634
+Whiplash (2014)                          3.000000
+Aviator, The (2004)                      2.945019
+Yes Man (2008)                           2.889260
+Side Effects (2013)                      2.854296
+Dr. Horrible's Sing-Along Blog (2008)    2.853145
+635
+Willy Wonka & the Chocolate Factory (1971)    5.000000
+Day of the Jackal, The (1973)                 5.000000
+Celebrity (1998)                              5.000000
+Great Santini, The (1979)                     5.000000
+Kicking and Screaming (1995)                  4.949134
+636
+West Side Story (1961)                       2.500000
+Red Violin, The (Violon rouge, Le) (1998)    2.410714
+Planet of the Apes (2001)                    2.395932
+Monster (2003)                               2.385784
+Rush Hour 2 (2001)                           2.376996
+637
+¡Three Amigos! (1986)               4.500000
+Everest (1998)                      4.435619
+Little Women (1994)                 4.290582
+Predator 2 (1990)                   4.200190
+Gremlins 2: The New Batch (1990)    4.196966
+638
+While You Were Sleeping (1995)        3.000000
+Legend of Bagger Vance, The (2000)    3.000000
+Jesus Christ Superstar (1973)         2.959092
+K-19: The Widowmaker (2002)           2.934839
+Sky High (2005)                       2.919371
+639
+Willy Wonka & the Chocolate Factory (1971)    3.00000
+Day of the Jackal, The (1973)                 3.00000
+Celebrity (1998)                              3.00000
+Great Santini, The (1979)                     3.00000
+Kicking and Screaming (1995)                  2.96948
+640
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+641
+Ulee's Gold (1997)               3.000000
+League of Their Own, A (1992)    3.000000
+Few Good Men, A (1992)           3.000000
+Christmas Story, A (1983)        3.000000
+Rain Man (1988)                  2.618615
+642
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+643
+Who Framed Roger Rabbit? (1988)                              3.000000
+Music Man, The (1962)                                        2.940588
+Guilty as Sin (1993)                                         2.906466
+Invasion of the Body Snatchers (1978)                        2.906466
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    2.880692
+644
+Sicario (2015)                  4.500000
+X2: X-Men United (2003)         4.500000
+Wreck-It Ralph (2012)           4.377981
+40 Days and 40 Nights (2002)    4.243175
+Zero Dark Thirty (2012)         4.238561
+645
+¡Three Amigos! (1986)               4.000000
+Everest (1998)                      3.942772
+Little Women (1994)                 3.813850
+Predator 2 (1990)                   3.733503
+Gremlins 2: The New Batch (1990)    3.730636
+646
+12 Angry Men (1957)                                                                            5.0
+Tron (1982)                                                                                    5.0
+Clerks (1994)                                                                                  5.0
+Clueless (1995)                                                                                5.0
+Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988)    5.0
+647
+Arsenic and Old Lace (1944)               3.500000
+Zoolander (2001)                          3.500000
+Twilight (2008)                           3.407837
+The Hunger Games: Catching Fire (2013)    3.327911
+Fletch Lives (1989)                       3.317631
+648
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+649
+Lion King, The (1994)     5.000000
+White Squall (1996)       5.000000
+Scream (1996)             4.763305
+City Hall (1996)          4.472136
+Double Jeopardy (1999)    4.455211
+650
+Wizard of Oz, The (1939)     3.000000
+Indochine (1992)             3.000000
+Lord of the Flies (1990)     3.000000
+Picture Perfect (1997)       3.000000
+Jackass: The Movie (2002)    2.915053
+651
+eXistenZ (1999)                          5.000000
+Dead Zone, The (1983)                    4.841229
+Waking the Dead (2000)                   4.815434
+Open Your Eyes (Abre los ojos) (1997)    4.762897
+Manhattan Murder Mystery (1993)          4.654822
+652
+World Is Not Enough, The (1999)     4.000000
+Resident Evil: Apocalypse (2004)    3.896245
+Joy Luck Club, The (1993)           3.880191
+Rainmaker, The (1997)               3.872983
+Sex, Lies, and Videotape (1989)     3.871484
+653
+¡Three Amigos! (1986)               4.500000
+Everest (1998)                      4.435619
+Little Women (1994)                 4.290582
+Predator 2 (1990)                   4.200190
+Gremlins 2: The New Batch (1990)    4.196966
+654
+Zombieland (2009)      4.500000
+Jarhead (2005)         4.450246
+Desperado (1995)       4.439975
+The Revenant (2015)    4.431294
+Hanna (2011)           4.413315
+655
+Small Time Crooks (2000)                    4.000000
+X-Men (2000)                                4.000000
+Cloudy with a Chance of Meatballs (2009)    3.955774
+12 Years a Slave (2013)                     3.902662
+King and I, The (1956)                      3.870806
+656
+True Lies (1994)         3.000000
+Clean Slate (1994)       3.000000
+Coma (1978)              2.967212
+Young Einstein (1988)    2.939874
+Animal, The (2001)       2.939388
+657
+Who Framed Roger Rabbit? (1988)                              5.000000
+Music Man, The (1962)                                        4.900980
+Guilty as Sin (1993)                                         4.844110
+Invasion of the Body Snatchers (1978)                        4.844110
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)    4.801154
+658
+Willy Wonka & the Chocolate Factory (1971)    4.000000
+Day of the Jackal, The (1973)                 4.000000
+Celebrity (1998)                              4.000000
+Great Santini, The (1979)                     4.000000
+Kicking and Screaming (1995)                  3.959307
+659
+X-Men: First Class (2011)    4.500000
+Blow (2001)                  4.441199
+Aviator, The (2004)          4.434874
+Dead Poets Society (1989)    4.427568
+Hugo (2011)                  4.422137
+660
+Malice (1993)                                                    4.0
+Effect of Gamma Rays on Man-in-the-Moon Marigolds, The (1972)    4.0
+Mystery Train (1989)                                             4.0
+Rescuers, The (1977)                                             4.0
+Terms of Endearment (1983)                                       4.0
+661
+While You Were Sleeping (1995)        4.000000
+Legend of Bagger Vance, The (2000)    4.000000
+Jesus Christ Superstar (1973)         3.945456
+K-19: The Widowmaker (2002)           3.913119
+Sky High (2005)                       3.892495
+662
+Series([], )
+663
+Arsenic and Old Lace (1944)               4.000000
+Zoolander (2001)                          4.000000
+Twilight (2008)                           3.894671
+The Hunger Games: Catching Fire (2013)    3.803327
+Fletch Lives (1989)                       3.791579
+664
+Young Guns II (1990)                                3.000000
+Police Academy 6: City Under Siege (1989)           2.889260
+U Turn (1997)                                       2.825226
+Gattaca (1997)                                      2.764252
+Police Academy 5: Assignment: Miami Beach (1988)    2.734396
+665
+Nothing in Common (1986)             3.000000
+Terminator 2: Judgment Day (1991)    3.000000
+Men Don't Leave (1990)               3.000000
+Dead Man (1995)                      2.904758
+Get Carter (2000)                    2.889260
+666
+Widows' Peak (1994)                  3.000000
+Get Shorty (1995)                    2.618615
+Pretty Woman (1990)                  2.605797
+Dolores Claiborne (1995)             2.535463
+Ace Ventura: Pet Detective (1994)    2.535463
+667
+Wallace & Gromit: The Best of Aardman Animation (1996)    3.000000
+Creature Comforts (1989)                                  3.000000
+Patton (1970)                                             2.964635
+Rosencrantz and Guildenstern Are Dead (1990)              2.948617
+Roxanne (1987)                                            2.940947
+668
+When a Man Loves a Woman (1994)    3.000000
+King and I, The (1956)             3.000000
+Perfect Storm, The (2000)          2.914418
+American History X (1998)          2.904738
+Sex, Lies, and Videotape (1989)    2.877555
+669
+Omega Man, The (1971)         5.0
+Usual Suspects, The (1995)    5.0
+Last Detail, The (1973)       5.0
+Shall We Dance (1937)         5.0
+General, The (1998)           5.0
+670
+Wizard of Oz, The (1939)     4.000000
+Indochine (1992)             4.000000
+Lord of the Flies (1990)     4.000000
+Picture Perfect (1997)       4.000000
+Jackass: The Movie (2002)    3.886737
