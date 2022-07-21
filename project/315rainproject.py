@@ -15,9 +15,8 @@ from sklearn.utils import resample
 
 dataframe = pandas.read_csv("./RainData.csv")
 
-#can delete
-print("Data: (rows, columns)") #(145460, 23)
-print(dataframe.shape)
+#print("Data: (rows, columns)") #(145460, 23)
+#print(dataframe.shape)
 
 #Matrix shows large amounts of missing data in: evaporation, sunshine, cloud9am, cloud3pm
 missingno.matrix(dataframe)
@@ -61,6 +60,10 @@ encoder = LabelEncoder()
 for x in dataframe.columns[dataframe.dtypes == 'object']:
     dataframe[x].fillna(dataframe[x].mode()[0], inplace=True)
     dataframe[x] = encoder.fit_transform(dataframe[x])
+#Features missing some data
+for x in dataframe.columns[dataframe.dtypes == "float64"]:
+    dataframe[x].fillna(dataframe[x].median(), inplace=True)
+
 #scale feature values 
 scaled = MinMaxScaler().fit_transform(dataframe)
 dataframe = pandas.DataFrame(
@@ -85,3 +88,12 @@ mpclf.fit(x_train, y_train)
 y_pred=mpclf.predict(x_test)
 print("MLP:", classification_report(y_test, mpclf.predict(x_test)))
 #support vector classifier
+svclf=SVC(kernel="linear")
+svclf.fit(x_train, y_train)
+y_pred=svclf.predict(x_test)
+print("SVC:", classification_report(y_test, y_pred))
+
+#plot ROC curve
+#plot_roc_curve(svclf, x_test, y_test)
+#plot confusion matrix
+#plot_confusion_matrix(svclf, x_test, y_test)
