@@ -45,10 +45,7 @@ dataframe.dropna(subset=["RainTomorrow"], inplace=True)
 dataframe.drop(["Evaporation", "Sunshine", "Cloud9am", "Cloud3pm"], axis=1, inplace=True)
 #Drop features temp9am and pressure9am due to high coorelation that would cause Multicollinearity 
 dataframe.drop(["Temp9am", "Pressure9am"], axis=1, inplace=True)
-#Oversample Raintomorrow to balance out "no" and "yes" 
-yes=dataframe[dataframe["RainTomorrow"]==1]
-no=dataframe[dataframe["RainTomorrow"]==0]
-upSamppleYes=resample(yes, replace=True, n_samples=len(no), random_state=123)
+
 #removing any outliers that are more than 3 standard deviations away from the mean
 z_Score = numpy.abs(stats.zscore(dataframe._get_numeric_data(), nan_policy="omit"))
 dataframe = dataframe[(z_Score < 4).all(axis=1)]
@@ -58,8 +55,14 @@ dataframe["Date"] = dataframe["Date"].apply(lambda day: day.dayofyear)
 #Change any remaining categoricals to numeric 
 encoder = LabelEncoder()
 for x in dataframe.columns[dataframe.dtypes == 'object']:
-    dataframe[x].fillna(dataframe[x].mode()[0], inplace=True)
+    dataframe[x].fillna(dataframe[x].mode()[0], inplace=True)##############
     dataframe[x] = encoder.fit_transform(dataframe[x])
+
+#Oversample Raintomorrow to balance out "no" and "yes" 
+yes=dataframe[dataframe["RainTomorrow"]==1]
+no=dataframe[dataframe["RainTomorrow"]==0]
+upSamppleYes=resample(yes, replace=True, n_samples=len(no), random_state=123)
+dataframe=pandas.concat([no,upSamppleYes])
 #Features missing some data
 for x in dataframe.columns[dataframe.dtypes == "float64"]:
     dataframe[x].fillna(dataframe[x].median(), inplace=True)
@@ -81,17 +84,17 @@ x_train, x_test, y_train, y_test = train_test_split(features, labels, test_size=
 dtclf=DecisionTreeClassifier(max_depth=64)
 dtclf.fit(x_train, y_train)
 y_pred=dtclf.predict(x_test)
-print("Decision tree:", classification_report(y_test, y_pred))
-#perceptron classifier
-mpclf=MLPClassifier(hidden_layer_sizes=(32, 32), activation="relu", solver="adam", max_iter=128)
-mpclf.fit(x_train, y_train)
-y_pred=mpclf.predict(x_test)
-print("MLP:", classification_report(y_test, mpclf.predict(x_test)))
-#support vector classifier
-svclf=SVC(kernel="linear")
-svclf.fit(x_train, y_train)
-y_pred=svclf.predict(x_test)
-print("SVC:", classification_report(y_test, y_pred))
+print("Decision tree:", classification_report(y_test, y_pred,digits=2))
+# #perceptron classifier
+# mpclf=MLPClassifier(hidden_layer_sizes=(32, 32), activation="relu", solver="adam", max_iter=128)
+# mpclf.fit(x_train, y_train)
+# y_pred=mpclf.predict(x_test)
+# print("MLP:", classification_report(y_test, mpclf.predict(x_test)))
+# #support vector classifier
+# svclf=SVC(kernel="linear")
+# svclf.fit(x_train, y_train)
+# y_pred=svclf.predict(x_test)
+# print("SVC:", classification_report(y_test, y_pred))
 
 #plot ROC curve
 #plot_roc_curve(svclf, x_test, y_test)
